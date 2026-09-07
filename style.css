@@ -26,7 +26,6 @@
     --cat-meeting-bg:#384ba8; --cat-meeting-ink:#ffffff;
     --cat-event-bg:#983e6b; --cat-event-ink:#ffffff;
     --cat-cover-bg:#8d6b1b; --cat-cover-ink:#ffffff;
-    --cat-misc-bg:#4f7326; --cat-misc-ink:#ffffff;
     --cat-off-bg:#63746d; --cat-off-ink:#ffffff;
   }
   @media (prefers-color-scheme: dark){
@@ -58,7 +57,6 @@
       --cat-meeting-bg:#a1aad9; --cat-meeting-ink:#0d1021;
       --cat-event-bg:#d09fb8; --cat-event-ink:#210d17;
       --cat-cover-bg:#d9b768; --cat-cover-ink:#211b0d;
-      --cat-misc-bg:#a6c87e; --cat-misc-ink:#18210d;
       --cat-off-bg:#a7b4ae; --cat-off-ink:#121c18;
     }
   }
@@ -90,7 +88,6 @@
     --cat-meeting-bg:#a1aad9; --cat-meeting-ink:#0d1021;
     --cat-event-bg:#d09fb8; --cat-event-ink:#210d17;
     --cat-cover-bg:#d9b768; --cat-cover-ink:#211b0d;
-    --cat-misc-bg:#a6c87e; --cat-misc-ink:#18210d;
     --cat-off-bg:#a7b4ae; --cat-off-ink:#121c18;
   }
 
