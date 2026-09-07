@@ -557,7 +557,7 @@
     if(syncState==="unconfigured") return "Sync not set up";
     if(syncState==="syncing") return "Saving to GitHub…";
     if(syncState==="ok") return "Synced to GitHub";
-    if(syncState==="error") return "Sync error";
+    if(syncState==="error") return "Sync error · retry";
     return "";
   }
 
@@ -571,7 +571,12 @@
       if(syncQueued){ syncQueued=false; queueSync(); }
     });
   }
+  function delay(ms){
+    return new Promise(function(resolve){ setTimeout(resolve, ms); });
+  }
+
   function doSync(attempt){
+    attempt = attempt||1;
     if(!ghConfigured()){
       setSyncStatus("unconfigured","Add your GitHub settings to enable sync");
       return Promise.resolve();
@@ -583,8 +588,10 @@
     }).then(function(){
       setSyncStatus("ok","Saved to GitHub just now");
     }).catch(function(err){
-      if(err && err.status===409 && attempt<3){
-        return doSync(attempt+1);
+      /* 409 = the sha we read is already stale (common right after a manual upload,
+         or two saves landing close together) — back off briefly and re-read+retry */
+      if(err && err.status===409 && attempt<5){
+        return delay(400*attempt).then(function(){ return doSync(attempt+1); });
       }
       setSyncStatus("error", err && err.message ? err.message : "Sync failed");
     });
@@ -830,6 +837,10 @@
     var settingsBtn=document.getElementById("btn-gh-settings");
     if(settingsBtn) settingsBtn.addEventListener("click", function(){
       renderSettingsModal();
+    });
+    var syncPill=document.getElementById("sync-status");
+    if(syncPill) syncPill.addEventListener("click", function(){
+      if(syncState==="error") queueSync();
     });
   }
 
