@@ -202,8 +202,7 @@
   /* ---- GitHub sync: status pill + settings modal fields ---- */
   .sync-status{display:inline-block;font-size:10.5px;font-weight:600;letter-spacing:.03em;padding:3px 9px;border-radius:100px;background:var(--surface-2);color:var(--ink-soft);border:1px solid var(--border);margin-right:2px;white-space:nowrap;}
   .sync-status.sync-ok{color:var(--cat-teaching-bg);border-color:var(--cat-teaching-bg);}
-  .sync-status.sync-error{color:var(--danger);border-color:var(--danger);cursor:pointer;}
-  .sync-status.sync-error:hover{background:var(--danger);color:#fff;}
+  .sync-status.sync-error{color:var(--danger);border-color:var(--danger);}
   .sync-status.sync-syncing{color:var(--accent);border-color:var(--accent);}
   .sync-status.sync-unconfigured{color:var(--ink-faint);}
   .gh-field{display:flex;flex-direction:column;gap:3px;margin-bottom:11px;font-size:11.5px;font-weight:600;color:var(--ink-soft);}
