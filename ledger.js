@@ -19,6 +19,7 @@
     {key:"meeting", label:"Meeting",                short:"Meeting",    bg:"--cat-meeting-bg", ink:"--cat-meeting-ink", editable:true},
     {key:"event",   label:"School event",           short:"Event",      bg:"--cat-event-bg",   ink:"--cat-event-ink",   editable:true},
     {key:"cover",   label:"Cover",                  short:"Cover",      bg:"--cat-cover-bg",   ink:"--cat-cover-ink",   editable:true},
+    {key:"misc",    label:"Miscellaneous",          short:"Misc",       bg:"--cat-misc-bg",    ink:"--cat-misc-ink",    editable:true},
     {key:"off",     label:"Day off / Vacation",     short:"Off",        bg:"--cat-off-bg",     ink:"--cat-off-ink",     editable:true}
   ];
   var CAT_BY_KEY = {};
@@ -40,6 +41,7 @@
     "cat-meeting-bg":"#384ba8", "cat-meeting-ink":"#ffffff",
     "cat-event-bg":"#983e6b", "cat-event-ink":"#ffffff",
     "cat-cover-bg":"#8d6b1b", "cat-cover-ink":"#ffffff",
+    "cat-misc-bg":"#4f7326", "cat-misc-ink":"#ffffff",
     "cat-off-bg":"#63746d", "cat-off-ink":"#ffffff"
   };
 
@@ -270,6 +272,9 @@
         var cat=CAT_BY_KEY[cell.cat]||CAT_BY_KEY.free;
         if(cat.key==="free"){
           return '<td class="print-pcell"><div class="print-badge is-free">Free</div></td>';
+        }
+        if(cat.key==="off"){
+          return '<td class="print-pcell"><div class="print-badge" style="background:var('+cat.bg+');">&nbsp;</div></td>';
         }
         var detail=cell.label? '<div class="print-detail">'+escapeHtml(cell.label)+'</div>' : "";
         return '<td class="print-pcell"><div class="print-badge" style="background:var('+cat.bg+');color:var('+cat.ink+');">'+escapeHtml(cat.short)+'</div>'+detail+'</td>';
@@ -519,7 +524,8 @@
   }
 
   function ghGetSha(s){
-    return fetch(ghApiUrl(s)+"?ref="+encodeURIComponent(s.branch), {headers: ghHeaders(s)}).then(function(res){
+    var url=ghApiUrl(s)+"?ref="+encodeURIComponent(s.branch)+"&_="+Date.now();
+    return fetch(url, {headers: ghHeaders(s), cache:"no-store"}).then(function(res){
       if(res.status===404) return null;
       if(!res.ok) return res.text().then(function(t){ var e=new Error("GitHub error "+res.status+": "+t.slice(0,200)); e.status=res.status; throw e; });
       return res.json().then(function(j){ return j.sha; });
@@ -557,7 +563,7 @@
     if(syncState==="unconfigured") return "Sync not set up";
     if(syncState==="syncing") return "Saving to GitHub…";
     if(syncState==="ok") return "Synced to GitHub";
-    if(syncState==="error") return "Sync error";
+    if(syncState==="error") return "Sync error · retry";
     return "";
   }
 
@@ -571,7 +577,12 @@
       if(syncQueued){ syncQueued=false; queueSync(); }
     });
   }
+  function delay(ms){
+    return new Promise(function(resolve){ setTimeout(resolve, ms); });
+  }
+
   function doSync(attempt){
+    attempt = attempt||1;
     if(!ghConfigured()){
       setSyncStatus("unconfigured","Add your GitHub settings to enable sync");
       return Promise.resolve();
@@ -583,8 +594,10 @@
     }).then(function(){
       setSyncStatus("ok","Saved to GitHub just now");
     }).catch(function(err){
-      if(err && err.status===409 && attempt<3){
-        return doSync(attempt+1);
+      /* 409 = the sha we read is already stale (common right after a manual upload,
+         or two saves landing close together) — back off briefly and re-read+retry */
+      if(err && err.status===409 && attempt<5){
+        return delay(400*attempt).then(function(){ return doSync(attempt+1); });
       }
       setSyncStatus("error", err && err.message ? err.message : "Sync failed");
     });
@@ -653,7 +666,7 @@
   function testGhConnection(){
     var s=ghSettings();
     if(!s.owner||!s.repo||!s.token) return Promise.reject(new Error("Fill in owner, repo, and token first."));
-    return fetch(ghApiUrl(s)+"?ref="+encodeURIComponent(s.branch), {headers: ghHeaders(s)}).then(function(res){
+    return fetch(ghApiUrl(s)+"?ref="+encodeURIComponent(s.branch)+"&_="+Date.now(), {headers: ghHeaders(s), cache:"no-store"}).then(function(res){
       if(res.status===404) return "Connected — "+s.path+" doesn’t exist yet on "+s.branch+", it will be created on first save.";
       if(res.status===401) throw new Error("Authentication failed — check the token.");
       if(res.status===403) throw new Error("Forbidden — check the token has Contents read/write access to this repo.");
@@ -717,11 +730,13 @@
         var key=d.k+"-"+p.i;
         var cell=cells[key]||{cat:"free",label:""};
         var cat=CAT_BY_KEY[cell.cat]||CAT_BY_KEY.free;
+        /* a day marked off shows as a plain gray bar — no repeated "Off" label or empty details box in every period */
+        var selectTextColor = cat.key==="off" ? 'var('+cat.bg+')' : 'var('+cat.ink+')';
         var selectHtml='<select class="cell-select" data-key="'+key+'" data-cat="'+cat.key+'" '+
-          'style="background:var('+cat.bg+');color:var('+cat.ink+');" '+(canEdit?'':'disabled')+'>'+
+          'style="background:var('+cat.bg+');color:'+selectTextColor+';" '+(canEdit?'':'disabled')+'>'+
           CATS.map(function(c){ return '<option value="'+c.key+'"'+(c.key===cat.key?' selected':'')+'>'+escapeHtml(c.short)+'</option>'; }).join("")+
         '</select>';
-        var labelHtml = cat.key!=="free" ?
+        var labelHtml = (cat.key!=="free" && cat.key!=="off") ?
           '<textarea class="cell-label" rows="5" data-key="'+key+'" placeholder="details" '+(canEdit?'':'disabled')+'>'+escapeHtml(cell.label)+'</textarea>' : "";
         return '<td class="pcell">'+selectHtml+labelHtml+'</td>';
       }).join("");
@@ -830,6 +845,10 @@
     var settingsBtn=document.getElementById("btn-gh-settings");
     if(settingsBtn) settingsBtn.addEventListener("click", function(){
       renderSettingsModal();
+    });
+    var syncPill=document.getElementById("sync-status");
+    if(syncPill) syncPill.addEventListener("click", function(){
+      if(syncState==="error") queueSync();
     });
   }
 
