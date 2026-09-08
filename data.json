@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T04:34:03.934Z",
+  "updatedAt": "2026-09-08T06:31:35.988Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -48,7 +48,7 @@
           "label": ""
         },
         "Tue-0": {
-          "cat": "free",
+          "cat": "meeting",
           "label": ""
         },
         "Tue-1": {
