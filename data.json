@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-08T02:36:35.497Z",
+  "updatedAt": "2026-09-08T02:37:36.586Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
         "Mon-0": {
-          "cat": "free",
+          "cat": "teaching",
           "label": ""
         },
         "Mon-1": {
@@ -36,7 +36,7 @@
           "label": "Eng 1 · Gr 12a, 12b · MYP1 A3206"
         },
         "Mon-8": {
-          "cat": "free",
+          "cat": "teaching",
           "label": ""
         },
         "Mon-9": {
@@ -92,7 +92,7 @@
           "label": ""
         },
         "Wed-0": {
-          "cat": "free",
+          "cat": "teaching",
           "label": ""
         },
         "Wed-1": {
@@ -168,8 +168,8 @@
           "label": "Eng 1 · Gr 11a, 11b · A3210 (Physics rm)"
         },
         "Thu-8": {
-          "cat": "free",
-          "label": ""
+          "cat": "teaching",
+          "label": "Eng 1 · Gr 11a, 11b · A3210 (Physics rm)"
         },
         "Thu-9": {
           "cat": "hr",
