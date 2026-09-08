@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T17:59:53.703Z",
+  "updatedAt": "2026-09-08T18:00:20.911Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -100,7 +100,7 @@
           "label": "Eng 1 · Gr 12a, 12b · C1212"
         },
         "Wed-2": {
-          "cat": "free",
+          "cat": "grading",
           "label": ""
         },
         "Wed-3": {
