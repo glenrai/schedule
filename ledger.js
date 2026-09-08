@@ -852,10 +852,22 @@
     });
   }
 
+  /* re-renders without losing where the user was scrolled to — a plain render()
+     rebuilds the whole grid, which otherwise snaps the view back to Monday/period 0 */
+  function renderPreservingScroll(){
+    var gridWrap=document.querySelector(".grid-wrap");
+    var scrollLeft=gridWrap? gridWrap.scrollLeft : 0;
+    var winX=window.scrollX, winY=window.scrollY;
+    render();
+    var newGridWrap=document.querySelector(".grid-wrap");
+    if(newGridWrap) newGridWrap.scrollLeft=scrollLeft;
+    window.scrollTo(winX, winY);
+  }
+
   function persist(){
     state.updatedAt=new Date().toISOString();
     state.lastWeekIso=currentWeekIso;
-    render();
+    renderPreservingScroll();
     queueSync();
   }
 
