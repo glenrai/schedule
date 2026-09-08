@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T02:37:36.586Z",
+  "updatedAt": "2026-09-08T02:38:37.387Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -12,11 +12,11 @@
           "label": "Eng 1 · Gr 11a, 11b · A2208"
         },
         "Mon-2": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Mon-3": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Mon-4": {
@@ -40,8 +40,8 @@
           "label": ""
         },
         "Mon-9": {
-          "cat": "free",
-          "label": ""
+          "cat": "meeting",
+          "label": "Faculty Meeting"
         },
         "Mon-10": {
           "cat": "free",
