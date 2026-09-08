@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T06:33:20.344Z",
+  "updatedAt": "2026-09-08T10:11:19.650Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -225,7 +225,231 @@
         }
       },
       "offBackup": {}
+    },
+    "2026-10-05": {
+      "cells": {
+        "Mon-0": {
+          "cat": "free",
+          "label": ""
+        },
+        "Mon-1": {
+          "cat": "teaching",
+          "label": "Eng 1 · Gr 11a, 11b · A2208"
+        },
+        "Mon-2": {
+          "cat": "free",
+          "label": ""
+        },
+        "Mon-3": {
+          "cat": "free",
+          "label": ""
+        },
+        "Mon-4": {
+          "cat": "teaching",
+          "label": "Eng · Gr 10a · A3205"
+        },
+        "Mon-5": {
+          "cat": "consult",
+          "label": "Student consultation hour"
+        },
+        "Mon-6": {
+          "cat": "free",
+          "label": ""
+        },
+        "Mon-7": {
+          "cat": "teaching",
+          "label": "Eng 1 · Gr 12a, 12b · MYP1 A3206"
+        },
+        "Mon-8": {
+          "cat": "teaching",
+          "label": ""
+        },
+        "Mon-9": {
+          "cat": "free",
+          "label": ""
+        },
+        "Mon-10": {
+          "cat": "free",
+          "label": ""
+        },
+        "Tue-0": {
+          "cat": "free",
+          "label": ""
+        },
+        "Tue-1": {
+          "cat": "free",
+          "label": ""
+        },
+        "Tue-2": {
+          "cat": "free",
+          "label": ""
+        },
+        "Tue-3": {
+          "cat": "free",
+          "label": ""
+        },
+        "Tue-4": {
+          "cat": "teaching",
+          "label": "Eng · Gr 10a · A3205"
+        },
+        "Tue-5": {
+          "cat": "teaching",
+          "label": "Eng 1 · Gr 12a, 12b · Eesti A3204"
+        },
+        "Tue-6": {
+          "cat": "free",
+          "label": ""
+        },
+        "Tue-7": {
+          "cat": "free",
+          "label": ""
+        },
+        "Tue-8": {
+          "cat": "free",
+          "label": ""
+        },
+        "Tue-9": {
+          "cat": "hr",
+          "label": "Gr 11a (A3205) & 11b (Eesti A3204)"
+        },
+        "Tue-10": {
+          "cat": "free",
+          "label": ""
+        },
+        "Wed-0": {
+          "cat": "free",
+          "label": ""
+        },
+        "Wed-1": {
+          "cat": "teaching",
+          "label": "Eng 1 · Gr 12a, 12b · C1212"
+        },
+        "Wed-2": {
+          "cat": "free",
+          "label": ""
+        },
+        "Wed-3": {
+          "cat": "free",
+          "label": ""
+        },
+        "Wed-4": {
+          "cat": "free",
+          "label": ""
+        },
+        "Wed-5": {
+          "cat": "free",
+          "label": ""
+        },
+        "Wed-6": {
+          "cat": "free",
+          "label": ""
+        },
+        "Wed-7": {
+          "cat": "free",
+          "label": ""
+        },
+        "Wed-8": {
+          "cat": "free",
+          "label": ""
+        },
+        "Wed-9": {
+          "cat": "free",
+          "label": ""
+        },
+        "Wed-10": {
+          "cat": "free",
+          "label": ""
+        },
+        "Thu-0": {
+          "cat": "consult",
+          "label": "Student consultation hour"
+        },
+        "Thu-1": {
+          "cat": "teaching",
+          "label": "Eng · Gr 10a · A3209 (Math rm)"
+        },
+        "Thu-2": {
+          "cat": "free",
+          "label": ""
+        },
+        "Thu-3": {
+          "cat": "free",
+          "label": ""
+        },
+        "Thu-4": {
+          "cat": "free",
+          "label": ""
+        },
+        "Thu-5": {
+          "cat": "free",
+          "label": ""
+        },
+        "Thu-6": {
+          "cat": "free",
+          "label": ""
+        },
+        "Thu-7": {
+          "cat": "teaching",
+          "label": "Eng 1 · Gr 11a, 11b · A3210 (Physics rm)"
+        },
+        "Thu-8": {
+          "cat": "free",
+          "label": ""
+        },
+        "Thu-9": {
+          "cat": "hr",
+          "label": "Gr 11b (Eesti A3204) & 11a (A3205)"
+        },
+        "Thu-10": {
+          "cat": "free",
+          "label": ""
+        },
+        "Fri-0": {
+          "cat": "free",
+          "label": ""
+        },
+        "Fri-1": {
+          "cat": "free",
+          "label": ""
+        },
+        "Fri-2": {
+          "cat": "free",
+          "label": ""
+        },
+        "Fri-3": {
+          "cat": "free",
+          "label": ""
+        },
+        "Fri-4": {
+          "cat": "free",
+          "label": ""
+        },
+        "Fri-5": {
+          "cat": "lunch",
+          "label": "Lunch/Rec duty · Gr 8, 9, 10a, 10b"
+        },
+        "Fri-6": {
+          "cat": "teaching",
+          "label": "Eng · Gr 10a · MYP1 A3206"
+        },
+        "Fri-7": {
+          "cat": "teaching",
+          "label": "Eng · Gr 10a · MYP1 A3206"
+        },
+        "Fri-8": {
+          "cat": "free",
+          "label": ""
+        },
+        "Fri-9": {
+          "cat": "free",
+          "label": ""
+        },
+        "Fri-10": {
+          "cat": "free",
+          "label": ""
+        }
+      }
     }
   },
-  "lastWeekIso": "2026-09-07"
+  "lastWeekIso": "2026-10-05"
 }
