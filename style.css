@@ -19,6 +19,7 @@
     --cat-consult-bg:#2e799e; --cat-consult-ink:#ffffff;
     --cat-hr-bg:#ab3640; --cat-hr-ink:#ffffff;
     --cat-lunch-bg:#157fac; --cat-lunch-ink:#ffffff;
+    --cat-lunchbreak-bg:#ede4ab; --cat-lunchbreak-ink:#373210;
     --cat-head-bg:#a55127; --cat-head-ink:#ffffff;
     --cat-prep-bg:#643e98; --cat-prep-ink:#ffffff;
     --cat-grading-bg:#944294; --cat-grading-ink:#ffffff;
@@ -26,6 +27,7 @@
     --cat-meeting-bg:#384ba8; --cat-meeting-ink:#ffffff;
     --cat-event-bg:#983e6b; --cat-event-ink:#ffffff;
     --cat-cover-bg:#8d6b1b; --cat-cover-ink:#ffffff;
+    --cat-misc-bg:#4f7326; --cat-misc-ink:#ffffff;
     --cat-off-bg:#63746d; --cat-off-ink:#ffffff;
   }
   @media (prefers-color-scheme: dark){
@@ -50,6 +52,7 @@
       --cat-consult-bg:#8fbed6; --cat-consult-ink:#0d1a21;
       --cat-hr-bg:#daa0a4; --cat-hr-ink:#210d0e;
       --cat-lunch-bg:#47b3e1; --cat-lunch-ink:#0d1b21;
+      --cat-lunchbreak-bg:#dace81; --cat-lunchbreak-ink:#24200a;
       --cat-head-bg:#dca589; --cat-head-ink:#21140d;
       --cat-prep-bg:#b49fd0; --cat-prep-ink:#150d21;
       --cat-grading-bg:#cda2cd; --cat-grading-ink:#210d21;
@@ -57,6 +60,7 @@
       --cat-meeting-bg:#a1aad9; --cat-meeting-ink:#0d1021;
       --cat-event-bg:#d09fb8; --cat-event-ink:#210d17;
       --cat-cover-bg:#d9b768; --cat-cover-ink:#211b0d;
+      --cat-misc-bg:#a6c87e; --cat-misc-ink:#18210d;
       --cat-off-bg:#a7b4ae; --cat-off-ink:#121c18;
     }
   }
@@ -81,6 +85,7 @@
     --cat-consult-bg:#8fbed6; --cat-consult-ink:#0d1a21;
     --cat-hr-bg:#daa0a4; --cat-hr-ink:#210d0e;
     --cat-lunch-bg:#47b3e1; --cat-lunch-ink:#0d1b21;
+    --cat-lunchbreak-bg:#dace81; --cat-lunchbreak-ink:#24200a;
     --cat-head-bg:#dca589; --cat-head-ink:#21140d;
     --cat-prep-bg:#b49fd0; --cat-prep-ink:#150d21;
     --cat-grading-bg:#cda2cd; --cat-grading-ink:#210d21;
@@ -88,6 +93,7 @@
     --cat-meeting-bg:#a1aad9; --cat-meeting-ink:#0d1021;
     --cat-event-bg:#d09fb8; --cat-event-ink:#210d17;
     --cat-cover-bg:#d9b768; --cat-cover-ink:#211b0d;
+    --cat-misc-bg:#a6c87e; --cat-misc-ink:#18210d;
     --cat-off-bg:#a7b4ae; --cat-off-ink:#121c18;
   }
 
