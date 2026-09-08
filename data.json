@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T20:43:58.947Z",
+  "updatedAt": "2026-09-08T02:36:35.497Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -180,98 +180,51 @@
           "label": ""
         },
         "Fri-0": {
-          "cat": "off",
+          "cat": "free",
           "label": ""
         },
         "Fri-1": {
-          "cat": "off",
+          "cat": "free",
           "label": ""
         },
         "Fri-2": {
-          "cat": "off",
+          "cat": "free",
           "label": ""
         },
         "Fri-3": {
-          "cat": "off",
+          "cat": "free",
           "label": ""
         },
         "Fri-4": {
-          "cat": "off",
+          "cat": "free",
           "label": ""
         },
         "Fri-5": {
-          "cat": "off",
-          "label": ""
+          "cat": "lunch",
+          "label": "Lunch/Rec duty · Gr 8, 9, 10a, 10b"
         },
         "Fri-6": {
-          "cat": "off",
-          "label": ""
+          "cat": "teaching",
+          "label": "Eng · Gr 10a · MYP1 A3206"
         },
         "Fri-7": {
-          "cat": "off",
-          "label": ""
+          "cat": "teaching",
+          "label": "Eng · Gr 10a · MYP1 A3206"
         },
         "Fri-8": {
-          "cat": "off",
+          "cat": "free",
           "label": ""
         },
         "Fri-9": {
-          "cat": "off",
+          "cat": "free",
           "label": ""
         },
         "Fri-10": {
-          "cat": "off",
+          "cat": "free",
           "label": ""
         }
       },
-      "offBackup": {
-        "Fri": {
-          "0": {
-            "cat": "free",
-            "label": ""
-          },
-          "1": {
-            "cat": "free",
-            "label": ""
-          },
-          "2": {
-            "cat": "free",
-            "label": ""
-          },
-          "3": {
-            "cat": "free",
-            "label": ""
-          },
-          "4": {
-            "cat": "free",
-            "label": ""
-          },
-          "5": {
-            "cat": "lunch",
-            "label": "Lunch/Rec duty · Gr 8, 9, 10a, 10b"
-          },
-          "6": {
-            "cat": "teaching",
-            "label": "Eng · Gr 10a · MYP1 A3206"
-          },
-          "7": {
-            "cat": "teaching",
-            "label": "Eng · Gr 10a · MYP1 A3206"
-          },
-          "8": {
-            "cat": "free",
-            "label": ""
-          },
-          "9": {
-            "cat": "free",
-            "label": ""
-          },
-          "10": {
-            "cat": "free",
-            "label": ""
-          }
-        }
-      }
+      "offBackup": {}
     }
   },
   "lastWeekIso": "2026-09-07"
