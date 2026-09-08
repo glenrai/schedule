@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T17:50:11.981Z",
+  "updatedAt": "2026-09-08T17:50:25.734Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -28,7 +28,7 @@
           "label": "Student consultation hour"
         },
         "Mon-6": {
-          "cat": "prep",
+          "cat": "admin",
           "label": ""
         },
         "Mon-7": {
