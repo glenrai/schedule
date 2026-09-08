@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T17:58:26.654Z",
+  "updatedAt": "2026-09-08T17:58:30.192Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -72,7 +72,7 @@
           "label": "Eng 1 · Gr 12a, 12b · Eesti A3204"
         },
         "Tue-6": {
-          "cat": "head",
+          "cat": "admin",
           "label": "Preparing the Course Outline MYP5"
         },
         "Tue-7": {
