@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T17:58:47.646Z",
+  "updatedAt": "2026-09-08T17:59:04.128Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -76,7 +76,7 @@
           "label": "Preparing the Course Outline MYP5"
         },
         "Tue-7": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Tue-8": {
