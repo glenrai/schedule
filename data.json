@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T03:05:37.312Z",
+  "updatedAt": "2026-09-09T03:05:48.646Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -585,47 +585,47 @@
           "label": ""
         },
         "Thu-0": {
-          "cat": "consult",
-          "label": "Student consultation hour"
+          "cat": "off",
+          "label": ""
         },
         "Thu-1": {
-          "cat": "teaching",
-          "label": "Eng · Gr 10a · A3209 (Math rm)"
+          "cat": "off",
+          "label": ""
         },
         "Thu-2": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Thu-3": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Thu-4": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Thu-5": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Thu-6": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Thu-7": {
-          "cat": "teaching",
-          "label": "Eng 1 · Gr 11a, 11b · A3210 (Physics rm)"
+          "cat": "off",
+          "label": ""
         },
         "Thu-8": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Thu-9": {
-          "cat": "hr",
-          "label": "Gr 11b (Eesti A3204) & 11a (A3205)"
+          "cat": "off",
+          "label": ""
         },
         "Thu-10": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Fri-0": {
@@ -806,6 +806,52 @@
           "9": {
             "cat": "free",
             "label": ""
+          },
+          "10": {
+            "cat": "free",
+            "label": ""
+          }
+        },
+        "Thu": {
+          "0": {
+            "cat": "consult",
+            "label": "Student consultation hour"
+          },
+          "1": {
+            "cat": "teaching",
+            "label": "Eng · Gr 10a · A3209 (Math rm)"
+          },
+          "2": {
+            "cat": "free",
+            "label": ""
+          },
+          "3": {
+            "cat": "free",
+            "label": ""
+          },
+          "4": {
+            "cat": "free",
+            "label": ""
+          },
+          "5": {
+            "cat": "free",
+            "label": ""
+          },
+          "6": {
+            "cat": "free",
+            "label": ""
+          },
+          "7": {
+            "cat": "teaching",
+            "label": "Eng 1 · Gr 11a, 11b · A3210 (Physics rm)"
+          },
+          "8": {
+            "cat": "free",
+            "label": ""
+          },
+          "9": {
+            "cat": "hr",
+            "label": "Gr 11b (Eesti A3204) & 11a (A3205)"
           },
           "10": {
             "cat": "free",
