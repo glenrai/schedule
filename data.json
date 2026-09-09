@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T03:05:48.646Z",
+  "updatedAt": "2026-09-09T03:05:50.578Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -497,47 +497,47 @@
           "label": ""
         },
         "Tue-0": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Tue-1": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Tue-2": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Tue-3": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Tue-4": {
-          "cat": "teaching",
-          "label": "Eng · Gr 10a · A3205"
+          "cat": "off",
+          "label": ""
         },
         "Tue-5": {
-          "cat": "teaching",
-          "label": "Eng 1 · Gr 12a, 12b · Eesti A3204"
+          "cat": "off",
+          "label": ""
         },
         "Tue-6": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Tue-7": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Tue-8": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Tue-9": {
-          "cat": "hr",
-          "label": "Gr 11a (A3205) & 11b (Eesti A3204)"
+          "cat": "off",
+          "label": ""
         },
         "Tue-10": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Wed-0": {
@@ -852,6 +852,52 @@
           "9": {
             "cat": "hr",
             "label": "Gr 11b (Eesti A3204) & 11a (A3205)"
+          },
+          "10": {
+            "cat": "free",
+            "label": ""
+          }
+        },
+        "Tue": {
+          "0": {
+            "cat": "free",
+            "label": ""
+          },
+          "1": {
+            "cat": "free",
+            "label": ""
+          },
+          "2": {
+            "cat": "free",
+            "label": ""
+          },
+          "3": {
+            "cat": "free",
+            "label": ""
+          },
+          "4": {
+            "cat": "teaching",
+            "label": "Eng · Gr 10a · A3205"
+          },
+          "5": {
+            "cat": "teaching",
+            "label": "Eng 1 · Gr 12a, 12b · Eesti A3204"
+          },
+          "6": {
+            "cat": "free",
+            "label": ""
+          },
+          "7": {
+            "cat": "free",
+            "label": ""
+          },
+          "8": {
+            "cat": "free",
+            "label": ""
+          },
+          "9": {
+            "cat": "hr",
+            "label": "Gr 11a (A3205) & 11b (Eesti A3204)"
           },
           "10": {
             "cat": "free",
