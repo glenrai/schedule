@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T03:05:50.578Z",
+  "updatedAt": "2026-09-09T05:03:02.201Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -144,7 +144,7 @@
           "label": "Eng · Gr 10a · A3209 (Math rm)"
         },
         "Thu-2": {
-          "cat": "free",
+          "cat": "event",
           "label": ""
         },
         "Thu-3": {
@@ -907,5 +907,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-09-21"
+  "lastWeekIso": "2026-09-07"
 }
