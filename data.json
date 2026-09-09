@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T03:05:33.197Z",
+  "updatedAt": "2026-09-09T03:05:35.162Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -541,47 +541,47 @@
           "label": ""
         },
         "Wed-0": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Wed-1": {
-          "cat": "teaching",
-          "label": "Eng 1 · Gr 12a, 12b · C1212"
+          "cat": "off",
+          "label": ""
         },
         "Wed-2": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Wed-3": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Wed-4": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Wed-5": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Wed-6": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Wed-7": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Wed-8": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Wed-9": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Wed-10": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Thu-0": {
@@ -706,6 +706,52 @@
           "7": {
             "cat": "teaching",
             "label": "Eng 1 · Gr 12a, 12b · MYP1 A3206"
+          },
+          "8": {
+            "cat": "free",
+            "label": ""
+          },
+          "9": {
+            "cat": "free",
+            "label": ""
+          },
+          "10": {
+            "cat": "free",
+            "label": ""
+          }
+        },
+        "Wed": {
+          "0": {
+            "cat": "free",
+            "label": ""
+          },
+          "1": {
+            "cat": "teaching",
+            "label": "Eng 1 · Gr 12a, 12b · C1212"
+          },
+          "2": {
+            "cat": "free",
+            "label": ""
+          },
+          "3": {
+            "cat": "free",
+            "label": ""
+          },
+          "4": {
+            "cat": "free",
+            "label": ""
+          },
+          "5": {
+            "cat": "free",
+            "label": ""
+          },
+          "6": {
+            "cat": "free",
+            "label": ""
+          },
+          "7": {
+            "cat": "free",
+            "label": ""
           },
           "8": {
             "cat": "free",
