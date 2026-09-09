@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T18:00:29.891Z",
+  "updatedAt": "2026-09-09T03:03:03.203Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -104,7 +104,7 @@
           "label": ""
         },
         "Wed-3": {
-          "cat": "grading",
+          "cat": "lunchbreak",
           "label": ""
         },
         "Wed-4": {
