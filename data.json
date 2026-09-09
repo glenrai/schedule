@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T05:03:02.201Z",
+  "updatedAt": "2026-09-09T05:03:07.307Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -145,7 +145,7 @@
         },
         "Thu-2": {
           "cat": "event",
-          "label": ""
+          "label": "Ulemiste "
         },
         "Thu-3": {
           "cat": "lunchbreak",
