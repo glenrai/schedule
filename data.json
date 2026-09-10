@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T06:11:32.712Z",
+  "updatedAt": "2026-09-10T06:11:35.509Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -109,7 +109,7 @@
         },
         "Wed-4": {
           "cat": "event",
-          "label": "Ülemiste City event"
+          "label": "Ülemiste City Event"
         },
         "Wed-5": {
           "cat": "prep",
