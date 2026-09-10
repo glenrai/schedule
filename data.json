@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T06:10:36.543Z",
+  "updatedAt": "2026-09-10T06:10:40.204Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -144,7 +144,7 @@
           "label": "Eng · Gr 10a · A3209 (Math rm)\nStudents write exposition of a story. A picture prompt is provided. "
         },
         "Thu-2": {
-          "cat": "event",
+          "cat": "prep",
           "label": ""
         },
         "Thu-3": {
