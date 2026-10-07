@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T17:46:16.913Z",
+  "updatedAt": "2026-10-07T17:46:22.358Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -978,7 +978,7 @@
         },
         "Tue-6": {
           "cat": "teaching",
-          "label": ""
+          "label": "Mock IOs\n8. Sophie\n9. Kaan"
         },
         "Tue-7": {
           "cat": "free",
