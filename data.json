@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T17:46:56.608Z",
+  "updatedAt": "2026-10-07T17:47:03.106Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -998,7 +998,7 @@
         },
         "Wed-0": {
           "cat": "teaching",
-          "label": ""
+          "label": "Eng 1 · Gr 12a, 12b · C1212\nMock IOs\n10. Jeandre\n11. Evin "
         },
         "Wed-1": {
           "cat": "teaching",
@@ -1131,5 +1131,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-10-05"
+  "lastWeekIso": "2026-10-12"
 }
