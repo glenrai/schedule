@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T17:28:30.987Z",
+  "updatedAt": "2026-10-09T17:28:44.624Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -184,7 +184,7 @@
           "label": ""
         },
         "Fri-1": {
-          "cat": "free",
+          "cat": "grading",
           "label": ""
         },
         "Fri-2": {
