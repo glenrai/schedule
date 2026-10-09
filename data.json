@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T17:32:31.453Z",
+  "updatedAt": "2026-10-09T17:32:43.603Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -84,8 +84,8 @@
           "label": ""
         },
         "Tue-9": {
-          "cat": "hr",
-          "label": "Gr 11a (A3205) & 11b (Eesti A3204)"
+          "cat": "free",
+          "label": ""
         },
         "Tue-10": {
           "cat": "hr",
