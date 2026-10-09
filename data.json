@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T17:32:52.634Z",
+  "updatedAt": "2026-10-09T17:32:55.585Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -120,7 +120,7 @@
           "label": "Course Outlines - MYP 4"
         },
         "Wed-7": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Wed-8": {
