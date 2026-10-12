@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:13:31.658Z",
+  "updatedAt": "2026-10-12T10:13:34.030Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -5565,7 +5565,7 @@
           "label": ""
         },
         "Fri-0": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Fri-1": {
@@ -5657,7 +5657,7 @@
           "label": "Faculty Meeting"
         },
         "Tue-0": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Tue-1": {
@@ -5709,7 +5709,7 @@
           "label": "Eng 1 · Gr 12a, 12b · C1212"
         },
         "Wed-2": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Wed-3": {
@@ -5753,7 +5753,7 @@
           "label": "Eng · Gr 10a · A3209 (Math rm)"
         },
         "Thu-2": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Thu-3": {
@@ -5789,7 +5789,7 @@
           "label": ""
         },
         "Fri-0": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Fri-1": {
@@ -5933,7 +5933,7 @@
           "label": "Eng 1 · Gr 12a, 12b · C1212"
         },
         "Wed-2": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Wed-3": {
@@ -5977,7 +5977,7 @@
           "label": "Eng · Gr 10a · A3209 (Math rm)"
         },
         "Thu-2": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Thu-3": {
@@ -6013,7 +6013,7 @@
           "label": ""
         },
         "Fri-0": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Fri-1": {
@@ -6105,7 +6105,7 @@
           "label": "Faculty Meeting"
         },
         "Tue-0": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Tue-1": {
@@ -6157,7 +6157,7 @@
           "label": "Eng 1 · Gr 12a, 12b · C1212"
         },
         "Wed-2": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Wed-3": {
@@ -6201,7 +6201,7 @@
           "label": "Eng · Gr 10a · A3209 (Math rm)"
         },
         "Thu-2": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Thu-3": {
@@ -6237,7 +6237,7 @@
           "label": ""
         },
         "Fri-0": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Fri-1": {
@@ -6381,7 +6381,7 @@
           "label": "Eng 1 · Gr 12a, 12b · C1212"
         },
         "Wed-2": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Wed-3": {
@@ -6425,7 +6425,7 @@
           "label": "Eng · Gr 10a · A3209 (Math rm)"
         },
         "Thu-2": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Thu-3": {
@@ -6461,7 +6461,7 @@
           "label": ""
         },
         "Fri-0": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Fri-1": {
@@ -6553,7 +6553,7 @@
           "label": "Faculty Meeting"
         },
         "Tue-0": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Tue-1": {
@@ -6605,7 +6605,7 @@
           "label": "Eng 1 · Gr 12a, 12b · C1212"
         },
         "Wed-2": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Wed-3": {
@@ -6649,7 +6649,7 @@
           "label": "Eng · Gr 10a · A3209 (Math rm)"
         },
         "Thu-2": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Thu-3": {
@@ -10091,5 +10091,5 @@
       }
     }
   },
-  "lastWeekIso": "2027-02-08"
+  "lastWeekIso": "2027-03-15"
 }
