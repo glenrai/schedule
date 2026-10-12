@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:44:20.141Z",
+  "updatedAt": "2026-10-12T10:44:34.951Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -497,7 +497,7 @@
           "label": "Faculty Meeting"
         },
         "Tue-0": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Tue-1": {
@@ -10091,5 +10091,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-09-28"
+  "lastWeekIso": "2026-09-21"
 }
