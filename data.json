@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T09:59:40.591Z",
+  "updatedAt": "2026-10-12T10:01:00.803Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -565,8 +565,8 @@
           "label": ""
         },
         "Wed-6": {
-          "cat": "head",
-          "label": "Course Outlines - MYP 4"
+          "cat": "free",
+          "label": ""
         },
         "Wed-7": {
           "cat": "prep",
@@ -1245,8 +1245,8 @@
           "label": ""
         },
         "Wed-6": {
-          "cat": "head",
-          "label": "Course Outlines - MYP 4"
+          "cat": "free",
+          "label": ""
         },
         "Wed-7": {
           "cat": "prep",
@@ -1469,8 +1469,8 @@
           "label": ""
         },
         "Wed-6": {
-          "cat": "head",
-          "label": "Course Outlines - MYP 4"
+          "cat": "free",
+          "label": ""
         },
         "Wed-7": {
           "cat": "prep",
@@ -1693,8 +1693,8 @@
           "label": ""
         },
         "Wed-6": {
-          "cat": "head",
-          "label": "Course Outlines - MYP 4"
+          "cat": "free",
+          "label": ""
         },
         "Wed-7": {
           "cat": "prep",
@@ -10091,5 +10091,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-08-31"
+  "lastWeekIso": "2026-09-28"
 }
