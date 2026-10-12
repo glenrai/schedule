@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:11:35.339Z",
+  "updatedAt": "2026-10-12T10:12:50.759Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -1425,8 +1425,8 @@
           "label": "Eng 1 · Gr 12a, 12b · Eesti A3204"
         },
         "Tue-6": {
-          "cat": "head",
-          "label": "Preparing the Course Outline MYP5"
+          "cat": "free",
+          "label": ""
         },
         "Tue-7": {
           "cat": "prep",
@@ -10091,5 +10091,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-09-21"
+  "lastWeekIso": "2026-08-31"
 }
