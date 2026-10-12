@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T20:27:47.151Z",
+  "updatedAt": "2026-10-12T20:27:50.279Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -4267,8 +4267,8 @@
           "label": ""
         },
         "Wed-8": {
-          "cat": "misc",
-          "label": "Extended Essay Planning"
+          "cat": "free",
+          "label": ""
         },
         "Wed-9": {
           "cat": "meeting",
@@ -4491,8 +4491,8 @@
           "label": ""
         },
         "Wed-8": {
-          "cat": "misc",
-          "label": "Extended Essay Planning"
+          "cat": "free",
+          "label": ""
         },
         "Wed-9": {
           "cat": "meeting",
@@ -10417,5 +10417,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-12-14"
+  "lastWeekIso": "2026-12-28"
 }
