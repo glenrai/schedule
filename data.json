@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:15:55.457Z",
+  "updatedAt": "2026-10-12T10:16:57.378Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -609,8 +609,8 @@
           "label": ""
         },
         "Thu-6": {
-          "cat": "head",
-          "label": "Compiled the list of EAL learners. "
+          "cat": "free",
+          "label": ""
         },
         "Thu-7": {
           "cat": "teaching",
@@ -1289,8 +1289,8 @@
           "label": ""
         },
         "Thu-6": {
-          "cat": "head",
-          "label": "Compiled the list of EAL learners. "
+          "cat": "free",
+          "label": ""
         },
         "Thu-7": {
           "cat": "teaching",
@@ -1513,8 +1513,8 @@
           "label": ""
         },
         "Thu-6": {
-          "cat": "head",
-          "label": "Compiled the list of EAL learners. "
+          "cat": "free",
+          "label": ""
         },
         "Thu-7": {
           "cat": "teaching",
@@ -1737,8 +1737,8 @@
           "label": ""
         },
         "Thu-6": {
-          "cat": "head",
-          "label": "Compiled the list of EAL learners. "
+          "cat": "free",
+          "label": ""
         },
         "Thu-7": {
           "cat": "teaching",
@@ -10091,5 +10091,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-09-21"
+  "lastWeekIso": "2026-09-28"
 }
