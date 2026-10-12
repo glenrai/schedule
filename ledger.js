@@ -774,7 +774,6 @@
         '<div>'+
           '<span class="eyebrow">Glen Rai · Head of English · IST Tallinn</span>'+
           '<h1>Weekly Duty Ledger</h1>'+
-          '<div class="sub">Your teaching timetable plus every non-teaching hour — log prep, grading, admin and department-head time against your free periods.</div>'+
           '<div class="year-range">Sept 2026 – June 2027</div>'+
         '</div>'+
         '<div>'+topRightControls+'<button class="btn-export" id="btn-export-pdf">⬇ Download PDF</button> '+weekNavHtml+'<div class="updated mono">'+fmtUpdated(state.updatedAt)+'</div></div>'+
