@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T07:32:51.985Z",
+  "updatedAt": "2026-10-12T07:32:53.007Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -8577,11 +8577,11 @@
           "label": ""
         },
         "Tue-2": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Tue-3": {
-          "cat": "free",
+          "cat": "lunchbreak",
           "label": ""
         },
         "Tue-4": {
@@ -8593,7 +8593,7 @@
           "label": "Eng 1 · Gr 12a, 12b · Eesti A3204"
         },
         "Tue-6": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Tue-7": {
