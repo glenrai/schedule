@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:30:07.053Z",
+  "updatedAt": "2026-10-12T10:30:10.459Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -609,7 +609,7 @@
           "label": ""
         },
         "Thu-6": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Thu-7": {
@@ -1606,7 +1606,7 @@
         },
         "Mon-6": {
           "cat": "head",
-          "label": "Meeting team members"
+          "label": "Coordinating assessment planning"
         },
         "Mon-7": {
           "cat": "teaching",
@@ -10091,5 +10091,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-09-21"
+  "lastWeekIso": "2026-09-28"
 }
