@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T07:34:05.237Z",
+  "updatedAt": "2026-10-12T07:35:23.186Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -557,8 +557,8 @@
           "label": ""
         },
         "Wed-4": {
-          "cat": "event",
-          "label": "Ülemiste City Event"
+          "cat": "free",
+          "label": ""
         },
         "Wed-5": {
           "cat": "event",
@@ -1237,12 +1237,12 @@
           "label": ""
         },
         "Wed-4": {
-          "cat": "event",
-          "label": "Ülemiste City Event"
+          "cat": "free",
+          "label": ""
         },
         "Wed-5": {
-          "cat": "event",
-          "label": "Ülemiste City Event"
+          "cat": "free",
+          "label": ""
         },
         "Wed-6": {
           "cat": "head",
@@ -1461,12 +1461,12 @@
           "label": ""
         },
         "Wed-4": {
-          "cat": "event",
-          "label": "Ülemiste City Event"
+          "cat": "free",
+          "label": ""
         },
         "Wed-5": {
-          "cat": "event",
-          "label": "Ülemiste City Event"
+          "cat": "free",
+          "label": ""
         },
         "Wed-6": {
           "cat": "head",
@@ -10091,5 +10091,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-08-31"
+  "lastWeekIso": "2026-09-21"
 }
