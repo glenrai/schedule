@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T07:31:16.978Z",
+  "updatedAt": "2026-10-12T07:31:18.864Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -4277,11 +4277,11 @@
           "label": "Eng 1 · Gr 11a, 11b · A2208"
         },
         "Mon-2": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Mon-3": {
-          "cat": "free",
+          "cat": "lunchbreak",
           "label": ""
         },
         "Mon-4": {
@@ -4293,31 +4293,31 @@
           "label": "Student consultation hour"
         },
         "Mon-6": {
-          "cat": "free",
-          "label": ""
+          "cat": "head",
+          "label": "Meeting team members"
         },
         "Mon-7": {
           "cat": "teaching",
           "label": "Eng 1 · Gr 12a, 12b · MYP1 A3206"
         },
         "Mon-8": {
-          "cat": "free",
+          "cat": "teaching",
           "label": ""
         },
         "Mon-9": {
-          "cat": "free",
-          "label": ""
+          "cat": "meeting",
+          "label": "Faculty Meeting"
         },
         "Mon-10": {
-          "cat": "free",
-          "label": ""
+          "cat": "meeting",
+          "label": "Faculty Meeting"
         },
         "Tue-0": {
           "cat": "free",
           "label": ""
         },
         "Tue-1": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Tue-2": {
@@ -10091,5 +10091,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-12-28"
+  "lastWeekIso": "2027-01-04"
 }
