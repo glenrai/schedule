@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T07:29:15.416Z",
+  "updatedAt": "2026-10-12T07:29:17.651Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -1394,26 +1394,26 @@
         },
         "Mon-9": {
           "cat": "meeting",
-          "label": ""
+          "label": "Faculty Meeting"
         },
         "Mon-10": {
-          "cat": "free",
-          "label": ""
+          "cat": "meeting",
+          "label": "Faculty Meeting"
         },
         "Tue-0": {
           "cat": "free",
           "label": ""
         },
         "Tue-1": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Tue-2": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Tue-3": {
-          "cat": "free",
+          "cat": "lunchbreak",
           "label": ""
         },
         "Tue-4": {
@@ -1425,15 +1425,15 @@
           "label": "Eng 1 · Gr 12a, 12b · Eesti A3204"
         },
         "Tue-6": {
-          "cat": "free",
-          "label": ""
+          "cat": "head",
+          "label": "Preparing the Course Outline MYP5"
         },
         "Tue-7": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Tue-8": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Tue-9": {
@@ -1446,38 +1446,38 @@
         },
         "Wed-0": {
           "cat": "teaching",
-          "label": ""
+          "label": "Eng 1 · Gr 12a, 12b · C1212"
         },
         "Wed-1": {
           "cat": "teaching",
           "label": "Eng 1 · Gr 12a, 12b · C1212"
         },
         "Wed-2": {
-          "cat": "free",
+          "cat": "grading",
           "label": ""
         },
         "Wed-3": {
-          "cat": "free",
+          "cat": "lunchbreak",
           "label": ""
         },
         "Wed-4": {
-          "cat": "free",
-          "label": ""
+          "cat": "event",
+          "label": "Ülemiste City Event"
         },
         "Wed-5": {
-          "cat": "free",
-          "label": ""
+          "cat": "event",
+          "label": "Ülemiste City Event"
         },
         "Wed-6": {
-          "cat": "free",
-          "label": ""
+          "cat": "head",
+          "label": "Course Outlines - MYP 4"
         },
         "Wed-7": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Wed-8": {
-          "cat": "free",
+          "cat": "misc",
           "label": ""
         },
         "Wed-9": {
