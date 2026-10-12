@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T19:14:31.462Z",
+  "updatedAt": "2026-10-12T19:23:23.462Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -1925,7 +1925,7 @@
           "label": ""
         },
         "Wed-8": {
-          "cat": "misc",
+          "cat": "ee",
           "label": "Extended Essay Planning"
         },
         "Wed-9": {
