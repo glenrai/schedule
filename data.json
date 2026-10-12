@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T07:33:04.011Z",
+  "updatedAt": "2026-10-12T07:33:04.659Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -9462,22 +9462,22 @@
         },
         "Mon-10": {
           "cat": "meeting",
-          "label": ""
+          "label": "Faculty Meeting"
         },
         "Tue-0": {
           "cat": "free",
           "label": ""
         },
         "Tue-1": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Tue-2": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Tue-3": {
-          "cat": "free",
+          "cat": "lunchbreak",
           "label": ""
         },
         "Tue-4": {
@@ -9489,7 +9489,7 @@
           "label": "Eng 1 · Gr 12a, 12b · Eesti A3204"
         },
         "Tue-6": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Tue-7": {
