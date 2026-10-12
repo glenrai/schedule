@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:13:24.205Z",
+  "updatedAt": "2026-10-12T10:13:28.810Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -3641,7 +3641,7 @@
           "label": "Faculty Meeting"
         },
         "Tue-0": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Tue-1": {
@@ -3701,7 +3701,7 @@
           "label": ""
         },
         "Wed-4": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Wed-5": {
@@ -3865,7 +3865,7 @@
           "label": "Faculty Meeting"
         },
         "Tue-0": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Tue-1": {
@@ -3925,7 +3925,7 @@
           "label": ""
         },
         "Wed-4": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Wed-5": {
@@ -10091,5 +10091,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-12-07"
+  "lastWeekIso": "2026-12-21"
 }
