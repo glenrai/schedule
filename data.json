@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:47:23.426Z",
+  "updatedAt": "2026-10-12T10:47:44.428Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -610,7 +610,7 @@
         },
         "Thu-6": {
           "cat": "head",
-          "label": "Creating ESL rubrics"
+          "label": "Finalising ESL plan"
         },
         "Thu-7": {
           "cat": "teaching",
@@ -10091,5 +10091,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-09-14"
+  "lastWeekIso": "2026-09-21"
 }
