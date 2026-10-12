@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:46:07.305Z",
+  "updatedAt": "2026-10-12T10:46:29.195Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -1550,7 +1550,7 @@
         },
         "Fri-4": {
           "cat": "head",
-          "label": ""
+          "label": "Meeting Owen"
         },
         "Fri-5": {
           "cat": "lunch",
@@ -10091,5 +10091,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-09-07"
+  "lastWeekIso": "2026-08-31"
 }
