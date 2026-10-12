@@ -44,7 +44,7 @@
     "cat-meeting-bg":"#384ba8", "cat-meeting-ink":"#ffffff",
     "cat-event-bg":"#983e6b", "cat-event-ink":"#ffffff",
     "cat-cover-bg":"#8d6b1b", "cat-cover-ink":"#ffffff",
-    "cat-ee-bg":"#128173", "cat-ee-ink":"#ffffff",
+    "cat-ee-bg":"#a4dbf4", "cat-ee-ink":"#0f2a3d",
     "cat-misc-bg":"#4f7326", "cat-misc-ink":"#ffffff",
     "cat-off-bg":"#63746d", "cat-off-ink":"#ffffff"
   };
