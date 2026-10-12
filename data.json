@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:34:25.812Z",
+  "updatedAt": "2026-10-12T10:35:26.397Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -1202,7 +1202,7 @@
         },
         "Tue-6": {
           "cat": "head",
-          "label": ""
+          "label": "Meeting Erko for ESL"
         },
         "Tue-7": {
           "cat": "prep",
@@ -1246,7 +1246,7 @@
         },
         "Wed-6": {
           "cat": "head",
-          "label": ""
+          "label": "Planning department assessment calendar"
         },
         "Wed-7": {
           "cat": "prep",
@@ -1290,7 +1290,7 @@
         },
         "Thu-6": {
           "cat": "head",
-          "label": ""
+          "label": "Creating ESL rubrics"
         },
         "Thu-7": {
           "cat": "teaching",
