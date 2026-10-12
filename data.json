@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T20:27:57.570Z",
+  "updatedAt": "2026-10-12T20:29:36.407Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -2699,8 +2699,8 @@
           "label": ""
         },
         "Wed-8": {
-          "cat": "free",
-          "label": ""
+          "cat": "ee",
+          "label": "Extended Essay Planning"
         },
         "Wed-9": {
           "cat": "meeting",
@@ -2923,8 +2923,8 @@
           "label": ""
         },
         "Wed-8": {
-          "cat": "free",
-          "label": ""
+          "cat": "misc",
+          "label": "Extended Essay Planning"
         },
         "Wed-9": {
           "cat": "meeting",
@@ -3147,8 +3147,8 @@
           "label": ""
         },
         "Wed-8": {
-          "cat": "free",
-          "label": ""
+          "cat": "misc",
+          "label": "Extended Essay Planning"
         },
         "Wed-9": {
           "cat": "meeting",
@@ -3371,8 +3371,8 @@
           "label": ""
         },
         "Wed-8": {
-          "cat": "free",
-          "label": ""
+          "cat": "misc",
+          "label": "Extended Essay Planning"
         },
         "Wed-9": {
           "cat": "meeting",
@@ -3595,8 +3595,8 @@
           "label": ""
         },
         "Wed-8": {
-          "cat": "free",
-          "label": ""
+          "cat": "misc",
+          "label": "Extended Essay Planning"
         },
         "Wed-9": {
           "cat": "meeting",
@@ -3819,8 +3819,8 @@
           "label": ""
         },
         "Wed-8": {
-          "cat": "free",
-          "label": ""
+          "cat": "misc",
+          "label": "Extended Essay Planning"
         },
         "Wed-9": {
           "cat": "meeting",
@@ -4043,8 +4043,8 @@
           "label": ""
         },
         "Wed-8": {
-          "cat": "free",
-          "label": ""
+          "cat": "misc",
+          "label": "Extended Essay Planning"
         },
         "Wed-9": {
           "cat": "meeting",
@@ -4267,8 +4267,8 @@
           "label": ""
         },
         "Wed-8": {
-          "cat": "free",
-          "label": ""
+          "cat": "misc",
+          "label": "Extended Essay Planning"
         },
         "Wed-9": {
           "cat": "meeting",
@@ -4491,8 +4491,8 @@
           "label": ""
         },
         "Wed-8": {
-          "cat": "free",
-          "label": ""
+          "cat": "misc",
+          "label": "Extended Essay Planning"
         },
         "Wed-9": {
           "cat": "meeting",
@@ -4715,8 +4715,8 @@
           "label": ""
         },
         "Wed-8": {
-          "cat": "free",
-          "label": ""
+          "cat": "misc",
+          "label": "Extended Essay Planning"
         },
         "Wed-9": {
           "cat": "meeting",
@@ -4939,8 +4939,8 @@
           "label": ""
         },
         "Wed-8": {
-          "cat": "free",
-          "label": ""
+          "cat": "misc",
+          "label": "Extended Essay Planning"
         },
         "Wed-9": {
           "cat": "meeting",
@@ -5163,8 +5163,8 @@
           "label": ""
         },
         "Wed-8": {
-          "cat": "free",
-          "label": ""
+          "cat": "misc",
+          "label": "Extended Essay Planning"
         },
         "Wed-9": {
           "cat": "meeting",
@@ -10417,5 +10417,5 @@
       }
     }
   },
-  "lastWeekIso": "2027-01-18"
+  "lastWeekIso": "2026-11-02"
 }
