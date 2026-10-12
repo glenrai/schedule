@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T07:31:14.481Z",
+  "updatedAt": "2026-10-12T07:31:16.978Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -4158,22 +4158,22 @@
         },
         "Wed-6": {
           "cat": "head",
-          "label": ""
+          "label": "Course Outlines - MYP 4"
         },
         "Wed-7": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Wed-8": {
-          "cat": "free",
-          "label": ""
+          "cat": "misc",
+          "label": "Extended Essay Planning"
         },
         "Wed-9": {
-          "cat": "free",
+          "cat": "meeting",
           "label": ""
         },
         "Wed-10": {
-          "cat": "free",
+          "cat": "meeting",
           "label": ""
         },
         "Thu-0": {
@@ -4185,32 +4185,32 @@
           "label": "Eng · Gr 10a · A3209 (Math rm)"
         },
         "Thu-2": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Thu-3": {
-          "cat": "free",
+          "cat": "lunchbreak",
           "label": ""
         },
         "Thu-4": {
-          "cat": "free",
-          "label": ""
+          "cat": "prep",
+          "label": "cover"
         },
         "Thu-5": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Thu-6": {
-          "cat": "free",
-          "label": ""
+          "cat": "head",
+          "label": "Compiled the list of EAL learners. "
         },
         "Thu-7": {
           "cat": "teaching",
           "label": "Eng 1 · Gr 11a, 11b · A3210 (Physics rm)"
         },
         "Thu-8": {
-          "cat": "free",
-          "label": ""
+          "cat": "teaching",
+          "label": "Eng 1 · Gr 11a, 11b · A3210 (Physics rm)"
         },
         "Thu-9": {
           "cat": "hr",
@@ -4225,19 +4225,19 @@
           "label": ""
         },
         "Fri-1": {
-          "cat": "free",
+          "cat": "grading",
           "label": ""
         },
         "Fri-2": {
-          "cat": "free",
+          "cat": "grading",
           "label": ""
         },
         "Fri-3": {
-          "cat": "free",
+          "cat": "lunchbreak",
           "label": ""
         },
         "Fri-4": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Fri-5": {
