@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T07:23:33.946Z",
+  "updatedAt": "2026-10-12T07:25:00.599Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -453,8 +453,8 @@
     "2026-09-21": {
       "cells": {
         "Mon-0": {
-          "cat": "free",
-          "label": ""
+          "cat": "teaching",
+          "label": "Eng 1 · Gr 11a, 11b · A2208"
         },
         "Mon-1": {
           "cat": "teaching",
@@ -541,7 +541,7 @@
           "label": ""
         },
         "Wed-0": {
-          "cat": "free",
+          "cat": "teaching",
           "label": ""
         },
         "Wed-1": {
