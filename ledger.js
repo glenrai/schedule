@@ -20,6 +20,7 @@
     {key:"meeting", label:"Meeting",                short:"Meeting",    bg:"--cat-meeting-bg", ink:"--cat-meeting-ink", editable:true},
     {key:"event",   label:"School Event",           short:"Event",      bg:"--cat-event-bg",   ink:"--cat-event-ink",   editable:true},
     {key:"cover",   label:"Cover",                  short:"Cover",      bg:"--cat-cover-bg",   ink:"--cat-cover-ink",   editable:true},
+    {key:"ee",      label:"EE Coordination",        short:"EE Coordination", bg:"--cat-ee-bg",    ink:"--cat-ee-ink",    editable:true},
     {key:"misc",    label:"Miscellaneous",          short:"Misc",       bg:"--cat-misc-bg",    ink:"--cat-misc-ink",    editable:true},
     {key:"off",     label:"Day off / Vacation",     short:"Off",        bg:"--cat-off-bg",     ink:"--cat-off-ink",     editable:true}
   ];
@@ -43,6 +44,7 @@
     "cat-meeting-bg":"#384ba8", "cat-meeting-ink":"#ffffff",
     "cat-event-bg":"#983e6b", "cat-event-ink":"#ffffff",
     "cat-cover-bg":"#8d6b1b", "cat-cover-ink":"#ffffff",
+    "cat-ee-bg":"#128173", "cat-ee-ink":"#ffffff",
     "cat-misc-bg":"#4f7326", "cat-misc-ink":"#ffffff",
     "cat-off-bg":"#63746d", "cat-off-ink":"#ffffff"
   };
@@ -706,6 +708,7 @@
 
     var tallyHtml='<div class="tally">'+
       tile("head",{target:monthHeadTarget})+
+      tile("ee")+
       tile("prep")+
       tile("grading")+
       tile("admin")+
