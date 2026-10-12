@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:42:03.874Z",
+  "updatedAt": "2026-10-12T10:42:23.027Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -386,7 +386,7 @@
         },
         "Thu-6": {
           "cat": "meeting",
-          "label": ""
+          "label": "Meeting Florence: Planning the School Podcast"
         },
         "Thu-7": {
           "cat": "teaching",
