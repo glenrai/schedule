@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:17:01.781Z",
+  "updatedAt": "2026-10-12T10:30:00.280Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -197,7 +197,7 @@
         },
         "Fri-4": {
           "cat": "head",
-          "label": ""
+          "label": "Meeting team members"
         },
         "Fri-5": {
           "cat": "lunch",
@@ -10091,5 +10091,5 @@
       }
     }
   },
-  "lastWeekIso": "2027-01-18"
+  "lastWeekIso": "2026-09-07"
 }
