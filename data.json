@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T19:25:33.833Z",
+  "updatedAt": "2026-10-12T19:25:35.648Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -1058,7 +1058,7 @@
         },
         "Thu-4": {
           "cat": "head",
-          "label": "cover"
+          "label": ""
         },
         "Thu-5": {
           "cat": "prep",
