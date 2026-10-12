@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T19:25:35.648Z",
+  "updatedAt": "2026-10-12T19:25:45.229Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -1062,7 +1062,7 @@
         },
         "Thu-5": {
           "cat": "prep",
-          "label": ""
+          "label": "For the podcast meeting"
         },
         "Thu-6": {
           "cat": "misc",
