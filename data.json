@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T07:30:01.832Z",
+  "updatedAt": "2026-10-12T07:30:04.245Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -266,26 +266,26 @@
         },
         "Mon-9": {
           "cat": "meeting",
-          "label": ""
+          "label": "Faculty Meeting"
         },
         "Mon-10": {
-          "cat": "free",
-          "label": ""
+          "cat": "meeting",
+          "label": "Faculty Meeting"
         },
         "Tue-0": {
           "cat": "free",
           "label": ""
         },
         "Tue-1": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Tue-2": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Tue-3": {
-          "cat": "free",
+          "cat": "lunchbreak",
           "label": ""
         },
         "Tue-4": {
