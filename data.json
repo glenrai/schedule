@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:31:01.300Z",
+  "updatedAt": "2026-10-12T10:31:06.923Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -161,7 +161,7 @@
         },
         "Thu-6": {
           "cat": "head",
-          "label": "Compiled the list of EAL learners. "
+          "label": "Updating department procedures"
         },
         "Thu-7": {
           "cat": "teaching",
@@ -10091,5 +10091,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-09-28"
+  "lastWeekIso": "2026-09-07"
 }
