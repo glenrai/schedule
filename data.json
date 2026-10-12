@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:31:26.800Z",
+  "updatedAt": "2026-10-12T10:31:44.295Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -1781,8 +1781,8 @@
           "label": "Lunch/Rec duty · Gr 8, 9, 10a, 10b"
         },
         "Fri-6": {
-          "cat": "head",
-          "label": "Preparing team meeting notes"
+          "cat": "teaching",
+          "label": "Eng · Gr 10a · MYP1 A3206"
         },
         "Fri-7": {
           "cat": "teaching",
@@ -10091,5 +10091,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-09-21"
+  "lastWeekIso": "2026-09-28"
 }
