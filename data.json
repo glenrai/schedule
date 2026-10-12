@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T07:35:27.395Z",
+  "updatedAt": "2026-10-12T07:35:29.644Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -3701,12 +3701,12 @@
           "label": ""
         },
         "Wed-4": {
-          "cat": "event",
-          "label": "Ülemiste City Event"
+          "cat": "free",
+          "label": ""
         },
         "Wed-5": {
-          "cat": "event",
-          "label": "Ülemiste City Event"
+          "cat": "free",
+          "label": ""
         },
         "Wed-6": {
           "cat": "head",
@@ -3925,12 +3925,12 @@
           "label": ""
         },
         "Wed-4": {
-          "cat": "event",
-          "label": "Ülemiste City Event"
+          "cat": "free",
+          "label": ""
         },
         "Wed-5": {
-          "cat": "event",
-          "label": "Ülemiste City Event"
+          "cat": "free",
+          "label": ""
         },
         "Wed-6": {
           "cat": "head",
@@ -4149,12 +4149,12 @@
           "label": ""
         },
         "Wed-4": {
-          "cat": "event",
-          "label": "Ülemiste City Event"
+          "cat": "free",
+          "label": ""
         },
         "Wed-5": {
-          "cat": "event",
-          "label": "Ülemiste City Event"
+          "cat": "free",
+          "label": ""
         },
         "Wed-6": {
           "cat": "head",
@@ -4373,12 +4373,12 @@
           "label": ""
         },
         "Wed-4": {
-          "cat": "event",
-          "label": "Ülemiste City Event"
+          "cat": "free",
+          "label": ""
         },
         "Wed-5": {
-          "cat": "event",
-          "label": "Ülemiste City Event"
+          "cat": "free",
+          "label": ""
         },
         "Wed-6": {
           "cat": "head",
@@ -4597,12 +4597,12 @@
           "label": ""
         },
         "Wed-4": {
-          "cat": "event",
-          "label": "Ülemiste City Event"
+          "cat": "free",
+          "label": ""
         },
         "Wed-5": {
-          "cat": "event",
-          "label": "Ülemiste City Event"
+          "cat": "free",
+          "label": ""
         },
         "Wed-6": {
           "cat": "head",
@@ -4821,12 +4821,12 @@
           "label": ""
         },
         "Wed-4": {
-          "cat": "event",
-          "label": "Ülemiste City Event"
+          "cat": "free",
+          "label": ""
         },
         "Wed-5": {
-          "cat": "event",
-          "label": "Ülemiste City Event"
+          "cat": "free",
+          "label": ""
         },
         "Wed-6": {
           "cat": "head",
@@ -10091,5 +10091,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-12-07"
+  "lastWeekIso": "2027-01-18"
 }
