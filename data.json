@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:30:20.133Z",
+  "updatedAt": "2026-10-12T10:30:32.983Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -522,7 +522,7 @@
         },
         "Tue-6": {
           "cat": "head",
-          "label": ""
+          "label": "Reviewing department action points"
         },
         "Tue-7": {
           "cat": "prep",
@@ -610,7 +610,7 @@
         },
         "Thu-6": {
           "cat": "head",
-          "label": ""
+          "label": "Planning summatives and formatives"
         },
         "Thu-7": {
           "cat": "teaching",
@@ -1326,7 +1326,7 @@
         },
         "Fri-4": {
           "cat": "head",
-          "label": ""
+          "label": "Meeting team members"
         },
         "Fri-5": {
           "cat": "lunch",
@@ -1694,7 +1694,7 @@
         },
         "Wed-6": {
           "cat": "head",
-          "label": ""
+          "label": "Planning student support"
         },
         "Wed-7": {
           "cat": "prep",
