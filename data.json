@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T07:33:04.659Z",
+  "updatedAt": "2026-10-12T07:33:09.829Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -9653,11 +9653,11 @@
           "label": "Eng 1 · Gr 11a, 11b · A2208"
         },
         "Mon-2": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Mon-3": {
-          "cat": "free",
+          "cat": "lunchbreak",
           "label": ""
         },
         "Mon-4": {
@@ -9714,7 +9714,7 @@
         },
         "Tue-6": {
           "cat": "free",
-          "label": ""
+          "label": "Preparing the Course Outline MYP5"
         },
         "Tue-7": {
           "cat": "free",
@@ -10091,5 +10091,5 @@
       }
     }
   },
-  "lastWeekIso": "2027-06-14"
+  "lastWeekIso": "2027-06-21"
 }
