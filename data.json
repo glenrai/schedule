@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T20:25:11.693Z",
+  "updatedAt": "2026-10-12T20:25:13.920Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -2599,7 +2599,7 @@
           "label": "Eng · Gr 10a · A3205"
         },
         "Mon-5": {
-          "cat": "consult",
+          "cat": "free",
           "label": ""
         },
         "Mon-6": {
@@ -2615,27 +2615,27 @@
           "label": ""
         },
         "Mon-9": {
-          "cat": "meeting",
-          "label": "Faculty Meeting"
+          "cat": "free",
+          "label": ""
         },
         "Mon-10": {
-          "cat": "meeting",
-          "label": "Faculty Meeting"
+          "cat": "free",
+          "label": ""
         },
         "Tue-0": {
           "cat": "head",
           "label": ""
         },
         "Tue-1": {
-          "cat": "prep",
+          "cat": "free",
           "label": ""
         },
         "Tue-2": {
-          "cat": "prep",
+          "cat": "free",
           "label": ""
         },
         "Tue-3": {
-          "cat": "lunchbreak",
+          "cat": "free",
           "label": ""
         },
         "Tue-4": {
@@ -2651,16 +2651,16 @@
           "label": ""
         },
         "Tue-7": {
-          "cat": "prep",
+          "cat": "free",
           "label": ""
         },
         "Tue-8": {
-          "cat": "prep",
+          "cat": "free",
           "label": ""
         },
         "Tue-9": {
-          "cat": "hr",
-          "label": "Gr 11a (A3205) & 11b (Eesti A3204)"
+          "cat": "free",
+          "label": ""
         },
         "Tue-10": {
           "cat": "free",
@@ -2675,7 +2675,7 @@
           "label": "Eng 1 · Gr 12a, 12b · C1212"
         },
         "Wed-2": {
-          "cat": "grading",
+          "cat": "free",
           "label": ""
         },
         "Wed-3": {
