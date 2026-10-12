@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:37:47.206Z",
+  "updatedAt": "2026-10-12T10:37:50.472Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -522,7 +522,7 @@
         },
         "Tue-6": {
           "cat": "head",
-          "label": "Reviewing department action points/ "
+          "label": "Reviewing department action points"
         },
         "Tue-7": {
           "cat": "prep",
