@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T07:23:24.137Z",
+  "updatedAt": "2026-10-12T07:23:25.523Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -458,7 +458,7 @@
         },
         "Mon-1": {
           "cat": "teaching",
-          "label": ""
+          "label": "Eng 1 · Gr 11a, 11b · A2208"
         },
         "Mon-2": {
           "cat": "free",
@@ -474,7 +474,7 @@
         },
         "Mon-5": {
           "cat": "consult",
-          "label": ""
+          "label": "Student consultation hour"
         },
         "Mon-6": {
           "cat": "free",
@@ -514,7 +514,7 @@
         },
         "Tue-4": {
           "cat": "teaching",
-          "label": ""
+          "label": "Eng · Gr 10a · A3205"
         },
         "Tue-5": {
           "cat": "teaching",
@@ -534,7 +534,7 @@
         },
         "Tue-9": {
           "cat": "hr",
-          "label": ""
+          "label": "Gr 11a (A3205) & 11b (Eesti A3204)"
         },
         "Tue-10": {
           "cat": "free",
@@ -586,7 +586,7 @@
         },
         "Thu-0": {
           "cat": "consult",
-          "label": ""
+          "label": "Student consultation hour"
         },
         "Thu-1": {
           "cat": "teaching",
@@ -641,35 +641,35 @@
           "label": ""
         },
         "Fri-3": {
-          "cat": "off",
+          "cat": "free",
           "label": ""
         },
         "Fri-4": {
-          "cat": "off",
+          "cat": "free",
           "label": ""
         },
         "Fri-5": {
-          "cat": "off",
+          "cat": "lunch",
           "label": ""
         },
         "Fri-6": {
-          "cat": "off",
+          "cat": "teaching",
           "label": ""
         },
         "Fri-7": {
-          "cat": "off",
+          "cat": "teaching",
           "label": ""
         },
         "Fri-8": {
-          "cat": "off",
+          "cat": "free",
           "label": ""
         },
         "Fri-9": {
-          "cat": "off",
+          "cat": "free",
           "label": ""
         },
         "Fri-10": {
-          "cat": "off",
+          "cat": "free",
           "label": ""
         }
       },
