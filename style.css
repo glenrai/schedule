@@ -20,7 +20,7 @@
     --cat-hr-bg:#ab3640; --cat-hr-ink:#ffffff;
     --cat-lunch-bg:#157fac; --cat-lunch-ink:#ffffff;
     --cat-lunchbreak-bg:#ede4ab; --cat-lunchbreak-ink:#373210;
-    --cat-head-bg:#a55127; --cat-head-ink:#ffffff;
+    --cat-head-bg:#f7d1ba; --cat-head-ink:#321d11; --cat-head-bar:#d06639;
     --cat-prep-bg:#643e98; --cat-prep-ink:#ffffff;
     --cat-grading-bg:#944294; --cat-grading-ink:#ffffff;
     --cat-admin-bg:#63574b; --cat-admin-ink:#ffffff;
@@ -28,7 +28,7 @@
     --cat-event-bg:#983e6b; --cat-event-ink:#ffffff;
     --cat-cover-bg:#8d6b1b; --cat-cover-ink:#ffffff;
     --cat-ee-bg:#a4dbf4; --cat-ee-ink:#0f2a3d;
-    --cat-misc-bg:#4f7326; --cat-misc-ink:#ffffff;
+    --cat-misc-bg:#b8cdad; --cat-misc-ink:#212e19;
     --cat-off-bg:#63746d; --cat-off-ink:#ffffff;
   }
   @media (prefers-color-scheme: dark){
@@ -54,7 +54,7 @@
       --cat-hr-bg:#daa0a4; --cat-hr-ink:#210d0e;
       --cat-lunch-bg:#47b3e1; --cat-lunch-ink:#0d1b21;
       --cat-lunchbreak-bg:#dace81; --cat-lunchbreak-ink:#24200a;
-      --cat-head-bg:#dca589; --cat-head-ink:#21140d;
+      --cat-head-bg:#efbc9f; --cat-head-ink:#21140d; --cat-head-bar:#efbc9f;
       --cat-prep-bg:#b49fd0; --cat-prep-ink:#150d21;
       --cat-grading-bg:#cda2cd; --cat-grading-ink:#210d21;
       --cat-admin-bg:#aa9e92; --cat-admin-ink:#211a12;
@@ -62,7 +62,7 @@
       --cat-event-bg:#d09fb8; --cat-event-ink:#210d17;
       --cat-cover-bg:#d9b768; --cat-cover-ink:#211b0d;
       --cat-ee-bg:#a3e3fa; --cat-ee-ink:#0d1b21;
-      --cat-misc-bg:#a6c87e; --cat-misc-ink:#18210d;
+      --cat-misc-bg:#a8c398; --cat-misc-ink:#151f0f;
       --cat-off-bg:#a7b4ae; --cat-off-ink:#121c18;
     }
   }
@@ -88,7 +88,7 @@
     --cat-hr-bg:#daa0a4; --cat-hr-ink:#210d0e;
     --cat-lunch-bg:#47b3e1; --cat-lunch-ink:#0d1b21;
     --cat-lunchbreak-bg:#dace81; --cat-lunchbreak-ink:#24200a;
-    --cat-head-bg:#dca589; --cat-head-ink:#21140d;
+    --cat-head-bg:#efbc9f; --cat-head-ink:#21140d; --cat-head-bar:#efbc9f;
     --cat-prep-bg:#b49fd0; --cat-prep-ink:#150d21;
     --cat-grading-bg:#cda2cd; --cat-grading-ink:#210d21;
     --cat-admin-bg:#aa9e92; --cat-admin-ink:#211a12;
@@ -96,7 +96,7 @@
     --cat-event-bg:#d09fb8; --cat-event-ink:#210d17;
     --cat-cover-bg:#d9b768; --cat-cover-ink:#211b0d;
     --cat-ee-bg:#a3e3fa; --cat-ee-ink:#0d1b21;
-    --cat-misc-bg:#a6c87e; --cat-misc-ink:#18210d;
+    --cat-misc-bg:#a8c398; --cat-misc-ink:#151f0f;
     --cat-off-bg:#a7b4ae; --cat-off-ink:#121c18;
   }
 
@@ -147,7 +147,7 @@
   .tile-num .of{font-size:15px;color:var(--ink-faint);font-family:"IBM Plex Mono",monospace;}
   .tile-hrs{font-size:11px;color:var(--ink-faint);margin-top:2px;}
   .tile-bar{margin-top:9px;height:5px;border-radius:3px;background:var(--surface-2);overflow:hidden;}
-  .tile-bar-fill{height:100%;border-radius:3px;background:var(--cat-head-bg);transition:width .25s ease;}
+  .tile-bar-fill{height:100%;border-radius:3px;background:var(--cat-head-bar);transition:width .25s ease;}
   .tile.hit .tile-num{color:var(--cat-teaching-bg);}
 
   /* legend */

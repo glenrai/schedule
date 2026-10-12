@@ -13,7 +13,7 @@
     {key:"hr",      label:"Homeroom / consult",     short:"Homeroom",   bg:"--cat-hr-bg",      ink:"--cat-hr-ink",      editable:true},
     {key:"lunch",   label:"Lunch / rec duty",       short:"Lunch duty", bg:"--cat-lunch-bg",   ink:"--cat-lunch-ink",   editable:true},
     {key:"lunchbreak", label:"Lunch",               short:"Lunch",      bg:"--cat-lunchbreak-bg", ink:"--cat-lunchbreak-ink", editable:true},
-    {key:"head",    label:"Dept. head duty",        short:"Dept head",  bg:"--cat-head-bg",    ink:"--cat-head-ink",    editable:true},
+    {key:"head",    label:"HOD Duties",              short:"HOD Duties", bg:"--cat-head-bg",    ink:"--cat-head-ink",    editable:true},
     {key:"prep",    label:"Lesson prep",            short:"Prep",       bg:"--cat-prep-bg",    ink:"--cat-prep-ink",    editable:true},
     {key:"grading", label:"Grading & feedback",     short:"Grading",    bg:"--cat-grading-bg", ink:"--cat-grading-ink", editable:true},
     {key:"admin",   label:"Admin",                  short:"Admin",      bg:"--cat-admin-bg",   ink:"--cat-admin-ink",   editable:true},
@@ -21,7 +21,7 @@
     {key:"event",   label:"School Event",           short:"Event",      bg:"--cat-event-bg",   ink:"--cat-event-ink",   editable:true},
     {key:"cover",   label:"Cover",                  short:"Cover",      bg:"--cat-cover-bg",   ink:"--cat-cover-ink",   editable:true},
     {key:"ee",      label:"EE Coordination",        short:"EE Coordination", bg:"--cat-ee-bg",    ink:"--cat-ee-ink",    editable:true},
-    {key:"misc",    label:"Miscellaneous",          short:"Misc",       bg:"--cat-misc-bg",    ink:"--cat-misc-ink",    editable:true},
+    {key:"misc",    label:"Misc / Projects",         short:"Misc / Projects", bg:"--cat-misc-bg",    ink:"--cat-misc-ink",    editable:true},
     {key:"off",     label:"Day off / Vacation",     short:"Off",        bg:"--cat-off-bg",     ink:"--cat-off-ink",     editable:true}
   ];
   var CAT_BY_KEY = {};
@@ -37,7 +37,7 @@
     "cat-hr-bg":"#ab3640", "cat-hr-ink":"#ffffff",
     "cat-lunch-bg":"#157fac", "cat-lunch-ink":"#ffffff",
     "cat-lunchbreak-bg":"#ede4ab", "cat-lunchbreak-ink":"#373210",
-    "cat-head-bg":"#a55127", "cat-head-ink":"#ffffff",
+    "cat-head-bg":"#f7d1ba", "cat-head-ink":"#321d11", "cat-head-bar":"#d06639",
     "cat-prep-bg":"#643e98", "cat-prep-ink":"#ffffff",
     "cat-grading-bg":"#944294", "cat-grading-ink":"#ffffff",
     "cat-admin-bg":"#63574b", "cat-admin-ink":"#ffffff",
@@ -45,7 +45,7 @@
     "cat-event-bg":"#983e6b", "cat-event-ink":"#ffffff",
     "cat-cover-bg":"#8d6b1b", "cat-cover-ink":"#ffffff",
     "cat-ee-bg":"#a4dbf4", "cat-ee-ink":"#0f2a3d",
-    "cat-misc-bg":"#4f7326", "cat-misc-ink":"#ffffff",
+    "cat-misc-bg":"#b8cdad", "cat-misc-ink":"#212e19",
     "cat-off-bg":"#63746d", "cat-off-ink":"#ffffff"
   };
 
@@ -695,7 +695,7 @@
       var hrs=(n*HRS_PER_PERIOD);
       var hrsText=(hrs%1===0? hrs : hrs.toFixed(2)).toString().replace(/\.00$/,"")+"h";
       var ofText=opts.target? ' <span class="of">/ '+opts.target+'</span>' : "";
-      var bar=opts.target? '<div class="tile-bar"><div class="tile-bar-fill" style="width:'+Math.min(100,Math.round(n/opts.target*100))+'%;background:var('+c.bg+');"></div></div>' : "";
+      var bar=opts.target? '<div class="tile-bar"><div class="tile-bar-fill" style="width:'+Math.min(100,Math.round(n/opts.target*100))+'%;"></div></div>' : "";
       return '<div class="tile'+(opts.target && n>=opts.target?' hit':'')+'">'+
         '<div class="tile-label"><span class="tile-swatch" style="background:var('+c.bg+')"></span>'+escapeHtml(c.label)+'</div>'+
         '<div class="tile-num mono">'+n+ofText+'</div>'+
