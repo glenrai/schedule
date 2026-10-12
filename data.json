@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:13:02.655Z",
+  "updatedAt": "2026-10-12T10:13:04.339Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -5681,8 +5681,8 @@
           "label": "Eng 1 · Gr 12a, 12b · Eesti A3204"
         },
         "Tue-6": {
-          "cat": "head",
-          "label": "Preparing the Course Outline MYP5"
+          "cat": "free",
+          "label": ""
         },
         "Tue-7": {
           "cat": "free",
@@ -6129,8 +6129,8 @@
           "label": "Eng 1 · Gr 12a, 12b · Eesti A3204"
         },
         "Tue-6": {
-          "cat": "head",
-          "label": "Preparing the Course Outline MYP5"
+          "cat": "free",
+          "label": ""
         },
         "Tue-7": {
           "cat": "free",
@@ -6577,8 +6577,8 @@
           "label": "Eng 1 · Gr 12a, 12b · Eesti A3204"
         },
         "Tue-6": {
-          "cat": "head",
-          "label": "Preparing the Course Outline MYP5"
+          "cat": "free",
+          "label": ""
         },
         "Tue-7": {
           "cat": "free",
@@ -7025,8 +7025,8 @@
           "label": "Eng 1 · Gr 12a, 12b · Eesti A3204"
         },
         "Tue-6": {
-          "cat": "head",
-          "label": "Preparing the Course Outline MYP5"
+          "cat": "free",
+          "label": ""
         },
         "Tue-7": {
           "cat": "free",
@@ -10091,5 +10091,5 @@
       }
     }
   },
-  "lastWeekIso": "2027-02-01"
+  "lastWeekIso": "2027-03-29"
 }
