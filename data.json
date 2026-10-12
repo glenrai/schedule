@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:47:44.428Z",
+  "updatedAt": "2026-10-12T10:51:05.565Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -453,48 +453,48 @@
     "2026-09-21": {
       "cells": {
         "Mon-0": {
-          "cat": "teaching",
-          "label": "Eng 1 · Gr 11a, 11b · A2208"
+          "cat": "off",
+          "label": ""
         },
         "Mon-1": {
-          "cat": "teaching",
-          "label": "Eng 1 · Gr 11a, 11b · A2208"
+          "cat": "off",
+          "label": ""
         },
         "Mon-2": {
-          "cat": "prep",
+          "cat": "off",
           "label": ""
         },
         "Mon-3": {
-          "cat": "lunchbreak",
+          "cat": "off",
           "label": ""
         },
         "Mon-4": {
-          "cat": "teaching",
-          "label": "Eng · Gr 10a · A3205"
+          "cat": "off",
+          "label": ""
         },
         "Mon-5": {
-          "cat": "consult",
-          "label": "Student consultation hour"
+          "cat": "off",
+          "label": ""
         },
         "Mon-6": {
-          "cat": "head",
-          "label": "Meeting Erko ESL planning and assessments \n"
+          "cat": "off",
+          "label": ""
         },
         "Mon-7": {
-          "cat": "teaching",
+          "cat": "off",
           "label": ""
         },
         "Mon-8": {
-          "cat": "teaching",
+          "cat": "off",
           "label": ""
         },
         "Mon-9": {
-          "cat": "meeting",
-          "label": "Faculty Meeting"
+          "cat": "off",
+          "label": ""
         },
         "Mon-10": {
-          "cat": "meeting",
-          "label": "Faculty Meeting"
+          "cat": "off",
+          "label": ""
         },
         "Tue-0": {
           "cat": "head",
@@ -676,19 +676,19 @@
       "offBackup": {
         "Mon": {
           "0": {
-            "cat": "free",
-            "label": ""
+            "cat": "teaching",
+            "label": "Eng 1 · Gr 11a, 11b · A2208"
           },
           "1": {
             "cat": "teaching",
             "label": "Eng 1 · Gr 11a, 11b · A2208"
           },
           "2": {
-            "cat": "free",
+            "cat": "prep",
             "label": ""
           },
           "3": {
-            "cat": "free",
+            "cat": "lunchbreak",
             "label": ""
           },
           "4": {
@@ -700,24 +700,24 @@
             "label": "Student consultation hour"
           },
           "6": {
-            "cat": "free",
-            "label": ""
+            "cat": "head",
+            "label": "Meeting Erko ESL planning and assessments \n"
           },
           "7": {
             "cat": "teaching",
-            "label": "Eng 1 · Gr 12a, 12b · MYP1 A3206"
+            "label": ""
           },
           "8": {
-            "cat": "free",
+            "cat": "teaching",
             "label": ""
           },
           "9": {
-            "cat": "free",
-            "label": ""
+            "cat": "meeting",
+            "label": "Faculty Meeting"
           },
           "10": {
-            "cat": "free",
-            "label": ""
+            "cat": "meeting",
+            "label": "Faculty Meeting"
           }
         },
         "Wed": {
