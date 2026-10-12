@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:13:00.344Z",
+  "updatedAt": "2026-10-12T10:13:02.655Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -3441,8 +3441,8 @@
           "label": "Eng 1 · Gr 12a, 12b · Eesti A3204"
         },
         "Tue-6": {
-          "cat": "head",
-          "label": "Preparing the Course Outline MYP5"
+          "cat": "free",
+          "label": ""
         },
         "Tue-7": {
           "cat": "prep",
@@ -3665,8 +3665,8 @@
           "label": "Eng 1 · Gr 12a, 12b · Eesti A3204"
         },
         "Tue-6": {
-          "cat": "head",
-          "label": "Preparing the Course Outline MYP5"
+          "cat": "free",
+          "label": ""
         },
         "Tue-7": {
           "cat": "prep",
@@ -3889,8 +3889,8 @@
           "label": "Eng 1 · Gr 12a, 12b · Eesti A3204"
         },
         "Tue-6": {
-          "cat": "head",
-          "label": "Preparing the Course Outline MYP5"
+          "cat": "free",
+          "label": ""
         },
         "Tue-7": {
           "cat": "prep",
@@ -4113,8 +4113,8 @@
           "label": "Eng 1 · Gr 12a, 12b · Eesti A3204"
         },
         "Tue-6": {
-          "cat": "head",
-          "label": "Preparing the Course Outline MYP5"
+          "cat": "free",
+          "label": ""
         },
         "Tue-7": {
           "cat": "prep",
@@ -4337,8 +4337,8 @@
           "label": "Eng 1 · Gr 12a, 12b · Eesti A3204"
         },
         "Tue-6": {
-          "cat": "head",
-          "label": "Preparing the Course Outline MYP5"
+          "cat": "free",
+          "label": ""
         },
         "Tue-7": {
           "cat": "prep",
@@ -4561,8 +4561,8 @@
           "label": "Eng 1 · Gr 12a, 12b · Eesti A3204"
         },
         "Tue-6": {
-          "cat": "head",
-          "label": "Preparing the Course Outline MYP5"
+          "cat": "free",
+          "label": ""
         },
         "Tue-7": {
           "cat": "prep",
@@ -4785,8 +4785,8 @@
           "label": "Eng 1 · Gr 12a, 12b · Eesti A3204"
         },
         "Tue-6": {
-          "cat": "head",
-          "label": "Preparing the Course Outline MYP5"
+          "cat": "free",
+          "label": ""
         },
         "Tue-7": {
           "cat": "prep",
@@ -5233,8 +5233,8 @@
           "label": "Eng 1 · Gr 12a, 12b · Eesti A3204"
         },
         "Tue-6": {
-          "cat": "head",
-          "label": "Preparing the Course Outline MYP5"
+          "cat": "free",
+          "label": ""
         },
         "Tue-7": {
           "cat": "free",
@@ -10091,5 +10091,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-11-30"
+  "lastWeekIso": "2027-02-01"
 }
