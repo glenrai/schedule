@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T07:30:56.832Z",
+  "updatedAt": "2026-10-12T07:30:58.759Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -3469,39 +3469,39 @@
           "label": "Eng 1 · Gr 12a, 12b · C1212"
         },
         "Wed-2": {
-          "cat": "free",
+          "cat": "grading",
           "label": ""
         },
         "Wed-3": {
-          "cat": "free",
+          "cat": "lunchbreak",
           "label": ""
         },
         "Wed-4": {
-          "cat": "free",
-          "label": ""
+          "cat": "event",
+          "label": "Ülemiste City Event"
         },
         "Wed-5": {
-          "cat": "free",
-          "label": ""
+          "cat": "event",
+          "label": "Ülemiste City Event"
         },
         "Wed-6": {
-          "cat": "free",
-          "label": ""
+          "cat": "head",
+          "label": "Course Outlines - MYP 4"
         },
         "Wed-7": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Wed-8": {
-          "cat": "free",
-          "label": ""
+          "cat": "misc",
+          "label": "Extended Essay Planning"
         },
         "Wed-9": {
-          "cat": "free",
+          "cat": "meeting",
           "label": ""
         },
         "Wed-10": {
-          "cat": "free",
+          "cat": "meeting",
           "label": ""
         },
         "Thu-0": {
@@ -3513,19 +3513,19 @@
           "label": "Eng · Gr 10a · A3209 (Math rm)"
         },
         "Thu-2": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Thu-3": {
-          "cat": "free",
+          "cat": "lunchbreak",
           "label": ""
         },
         "Thu-4": {
-          "cat": "free",
-          "label": ""
+          "cat": "prep",
+          "label": "cover"
         },
         "Thu-5": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Thu-6": {
