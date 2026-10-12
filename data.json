@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T19:54:16.719Z",
+  "updatedAt": "2026-10-12T20:25:11.693Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -2587,11 +2587,11 @@
           "label": "Eng 1 · Gr 11a, 11b · A2208"
         },
         "Mon-2": {
-          "cat": "prep",
+          "cat": "free",
           "label": ""
         },
         "Mon-3": {
-          "cat": "lunchbreak",
+          "cat": "free",
           "label": ""
         },
         "Mon-4": {
@@ -2600,7 +2600,7 @@
         },
         "Mon-5": {
           "cat": "consult",
-          "label": "Student consultation hour"
+          "label": ""
         },
         "Mon-6": {
           "cat": "head",
@@ -10417,5 +10417,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-10-19"
+  "lastWeekIso": "2026-11-02"
 }
