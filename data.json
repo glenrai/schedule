@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:34:01.521Z",
+  "updatedAt": "2026-10-12T10:34:25.812Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -1290,7 +1290,7 @@
         },
         "Thu-6": {
           "cat": "head",
-          "label": "Planning summatives and formatives"
+          "label": ""
         },
         "Thu-7": {
           "cat": "teaching",
@@ -10091,5 +10091,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-09-07"
+  "lastWeekIso": "2026-09-14"
 }
