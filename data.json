@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T07:30:24.909Z",
+  "updatedAt": "2026-10-12T07:30:27.163Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -2169,32 +2169,32 @@
           "label": "Eng · Gr 10a · A3209 (Math rm)"
         },
         "Thu-2": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Thu-3": {
-          "cat": "free",
+          "cat": "lunchbreak",
           "label": ""
         },
         "Thu-4": {
-          "cat": "free",
-          "label": ""
+          "cat": "prep",
+          "label": "cover"
         },
         "Thu-5": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Thu-6": {
-          "cat": "free",
-          "label": ""
+          "cat": "head",
+          "label": "Compiled the list of EAL learners. "
         },
         "Thu-7": {
           "cat": "teaching",
           "label": "Eng 1 · Gr 11a, 11b · A3210 (Physics rm)"
         },
         "Thu-8": {
-          "cat": "free",
-          "label": ""
+          "cat": "teaching",
+          "label": "Eng 1 · Gr 11a, 11b · A3210 (Physics rm)"
         },
         "Thu-9": {
           "cat": "hr",
@@ -2209,19 +2209,19 @@
           "label": ""
         },
         "Fri-1": {
-          "cat": "free",
+          "cat": "grading",
           "label": ""
         },
         "Fri-2": {
-          "cat": "free",
+          "cat": "grading",
           "label": ""
         },
         "Fri-3": {
-          "cat": "free",
+          "cat": "lunchbreak",
           "label": ""
         },
         "Fri-4": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Fri-5": {
@@ -2261,7 +2261,7 @@
           "label": "Eng 1 · Gr 11a, 11b · A2208"
         },
         "Mon-2": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Mon-3": {
@@ -10091,5 +10091,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-10-26"
+  "lastWeekIso": "2026-11-02"
 }
