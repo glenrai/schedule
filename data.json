@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T17:37:02.399Z",
+  "updatedAt": "2026-10-12T07:23:22.322Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -453,67 +453,67 @@
     "2026-09-21": {
       "cells": {
         "Mon-0": {
-          "cat": "off",
+          "cat": "free",
           "label": ""
         },
         "Mon-1": {
-          "cat": "off",
+          "cat": "teaching",
           "label": ""
         },
         "Mon-2": {
-          "cat": "off",
+          "cat": "free",
           "label": ""
         },
         "Mon-3": {
-          "cat": "off",
+          "cat": "free",
           "label": ""
         },
         "Mon-4": {
-          "cat": "off",
+          "cat": "teaching",
           "label": ""
         },
         "Mon-5": {
-          "cat": "off",
+          "cat": "consult",
           "label": ""
         },
         "Mon-6": {
-          "cat": "off",
+          "cat": "free",
           "label": ""
         },
         "Mon-7": {
-          "cat": "off",
+          "cat": "teaching",
           "label": ""
         },
         "Mon-8": {
-          "cat": "off",
+          "cat": "free",
           "label": ""
         },
         "Mon-9": {
-          "cat": "off",
+          "cat": "free",
           "label": ""
         },
         "Mon-10": {
-          "cat": "off",
+          "cat": "free",
           "label": ""
         },
         "Tue-0": {
-          "cat": "off",
+          "cat": "free",
           "label": ""
         },
         "Tue-1": {
-          "cat": "off",
+          "cat": "free",
           "label": ""
         },
         "Tue-2": {
-          "cat": "off",
+          "cat": "free",
           "label": ""
         },
         "Tue-3": {
-          "cat": "off",
+          "cat": "free",
           "label": ""
         },
         "Tue-4": {
-          "cat": "off",
+          "cat": "teaching",
           "label": ""
         },
         "Tue-5": {
@@ -1355,5 +1355,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-09-14"
+  "lastWeekIso": "2026-09-21"
 }
