@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T19:23:23.462Z",
+  "updatedAt": "2026-10-12T19:24:13.984Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -385,7 +385,7 @@
           "label": "Meeting Erko/Katja - Planning remedial plan for ESL differentiation. "
         },
         "Thu-6": {
-          "cat": "meeting",
+          "cat": "misc",
           "label": "Meeting Florence: Planning the School Podcast"
         },
         "Thu-7": {
@@ -10323,5 +10323,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-10-19"
+  "lastWeekIso": "2026-10-05"
 }
