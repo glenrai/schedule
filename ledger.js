@@ -710,8 +710,6 @@
       tile("grading")+
       tile("admin")+
       tile("teaching")+
-      tile("free")+
-      tile("off")+
     '</div>';
 
     var legendHtml='<div class="legend">'+CATS.map(function(c){

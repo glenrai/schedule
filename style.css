@@ -136,7 +136,7 @@
 
   /* tally */
   .tally-caption{font-size:10.5px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-faint);margin-bottom:8px;}
-  .tally{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:12px;margin-bottom:22px;}
+  .tally{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px;margin-bottom:22px;}
   .tile{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:13px 14px;box-shadow:var(--shadow-sm);}
   .tile-label{font-size:10.5px;font-weight:600;letter-spacing:.05em;text-transform:uppercase;color:var(--ink-soft);display:flex;align-items:center;gap:6px;}
   .tile-swatch{width:9px;height:9px;border-radius:3px;flex:none;}
