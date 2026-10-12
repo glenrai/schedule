@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T07:29:43.313Z",
+  "updatedAt": "2026-10-12T07:29:45.113Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -461,51 +461,51 @@
           "label": "Eng 1 · Gr 11a, 11b · A2208"
         },
         "Mon-2": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Mon-3": {
-          "cat": "free",
+          "cat": "lunchbreak",
           "label": ""
         },
         "Mon-4": {
           "cat": "teaching",
-          "label": ""
+          "label": "Eng · Gr 10a · A3205"
         },
         "Mon-5": {
           "cat": "consult",
           "label": "Student consultation hour"
         },
         "Mon-6": {
-          "cat": "free",
-          "label": ""
+          "cat": "head",
+          "label": "Meeting team members"
         },
         "Mon-7": {
           "cat": "teaching",
           "label": ""
         },
         "Mon-8": {
-          "cat": "free",
+          "cat": "teaching",
           "label": ""
         },
         "Mon-9": {
-          "cat": "free",
-          "label": ""
+          "cat": "meeting",
+          "label": "Faculty Meeting"
         },
         "Mon-10": {
-          "cat": "free",
-          "label": ""
+          "cat": "meeting",
+          "label": "Faculty Meeting"
         },
         "Tue-0": {
           "cat": "free",
           "label": ""
         },
         "Tue-1": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Tue-2": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Tue-3": {
@@ -1321,11 +1321,11 @@
           "label": ""
         },
         "Fri-3": {
-          "cat": "free",
+          "cat": "lunchbreak",
           "label": ""
         },
         "Fri-4": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Fri-5": {
@@ -10091,5 +10091,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-09-14"
+  "lastWeekIso": "2026-09-21"
 }
