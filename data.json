@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:31:25.303Z",
+  "updatedAt": "2026-10-12T10:31:26.800Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -610,7 +610,7 @@
         },
         "Thu-6": {
           "cat": "head",
-          "label": "Planning summatives and formatives"
+          "label": "Creating ESL rubrics"
         },
         "Thu-7": {
           "cat": "teaching",
@@ -10091,5 +10091,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-09-14"
+  "lastWeekIso": "2026-09-21"
 }
