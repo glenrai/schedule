@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T10:38:36.105Z",
+  "updatedAt": "2026-10-12T10:39:48.490Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -294,7 +294,7 @@
         },
         "Tue-5": {
           "cat": "teaching",
-          "label": "Eng 1 · Gr 12a, 12b · Eesti A3204\nMock IOs\n5. Emma \n6. Oriana \n7. Kira\n\n\n"
+          "label": "Eng 1 · Gr 12a, 12b · Eesti A3204\n\n\n"
         },
         "Tue-6": {
           "cat": "teaching",
@@ -10091,5 +10091,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-09-28"
+  "lastWeekIso": "2026-10-05"
 }
