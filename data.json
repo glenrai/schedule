@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T07:29:53.910Z",
+  "updatedAt": "2026-10-12T07:29:57.546Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -1738,15 +1738,15 @@
         },
         "Thu-6": {
           "cat": "head",
-          "label": ""
+          "label": "Compiled the list of EAL learners. "
         },
         "Thu-7": {
           "cat": "teaching",
           "label": "Eng 1 · Gr 11a, 11b · A3210 (Physics rm)"
         },
         "Thu-8": {
-          "cat": "free",
-          "label": ""
+          "cat": "teaching",
+          "label": "Eng 1 · Gr 11a, 11b · A3210 (Physics rm)"
         },
         "Thu-9": {
           "cat": "hr",
@@ -1761,19 +1761,19 @@
           "label": ""
         },
         "Fri-1": {
-          "cat": "free",
+          "cat": "grading",
           "label": ""
         },
         "Fri-2": {
-          "cat": "free",
+          "cat": "grading",
           "label": ""
         },
         "Fri-3": {
-          "cat": "free",
+          "cat": "lunchbreak",
           "label": ""
         },
         "Fri-4": {
-          "cat": "free",
+          "cat": "head",
           "label": ""
         },
         "Fri-5": {
