@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T20:25:38.393Z",
+  "updatedAt": "2026-10-13T20:25:58.241Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -1006,7 +1006,7 @@
         },
         "Wed-2": {
           "cat": "grading",
-          "label": ""
+          "label": "Grading The DP2 Mock IO"
         },
         "Wed-3": {
           "cat": "lunchbreak",
