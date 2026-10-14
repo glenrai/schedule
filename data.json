@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T07:00:10.911Z",
+  "updatedAt": "2026-10-14T07:00:14.508Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -1005,7 +1005,7 @@
           "label": "Eng 1 · Gr 12a, 12b · C1212\nMock IOs\n12. Filipp\n13. Lola-Marie\n"
         },
         "Wed-2": {
-          "cat": "grading",
+          "cat": "misc",
           "label": "Grading The DP2 Mock IO"
         },
         "Wed-3": {
