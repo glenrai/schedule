@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T07:21:23.442Z",
+  "updatedAt": "2026-10-14T12:47:53.912Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -1014,7 +1014,7 @@
         },
         "Wed-4": {
           "cat": "head",
-          "label": ""
+          "label": "Checking formatives and summatives conducted so far. "
         },
         "Wed-5": {
           "cat": "grading",
@@ -10417,5 +10417,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-10-19"
+  "lastWeekIso": "2026-10-12"
 }
