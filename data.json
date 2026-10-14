@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T07:19:56.150Z",
+  "updatedAt": "2026-10-14T07:19:59.851Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -1917,7 +1917,7 @@
           "label": "Preparation of cover work for Thursday and Friday lessons"
         },
         "Wed-6": {
-          "cat": "prep",
+          "cat": "misc",
           "label": ""
         },
         "Wed-7": {
