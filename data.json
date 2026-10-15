@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T07:57:42.029Z",
+  "updatedAt": "2026-10-15T07:57:47.341Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -1054,7 +1054,7 @@
         },
         "Thu-3": {
           "cat": "misc",
-          "label": "Vahur: Conference proposal"
+          "label": "Vahur: Conference details"
         },
         "Thu-4": {
           "cat": "head",
