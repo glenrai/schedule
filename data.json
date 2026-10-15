@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T09:24:44.037Z",
+  "updatedAt": "2026-10-15T09:25:14.552Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -1066,7 +1066,7 @@
         },
         "Thu-6": {
           "cat": "misc",
-          "label": "Podcast Meeting with Florence and Vahur"
+          "label": ""
         },
         "Thu-7": {
           "cat": "teaching",
