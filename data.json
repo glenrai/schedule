@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T19:40:41.458Z",
+  "updatedAt": "2026-10-18T19:41:08.308Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -1862,7 +1862,7 @@
         },
         "Tue-3": {
           "cat": "meeting",
-          "label": "Meetig "
+          "label": "Online Meeting "
         },
         "Tue-4": {
           "cat": "teaching",
