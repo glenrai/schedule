@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T19:41:31.486Z",
+  "updatedAt": "2026-10-19T09:24:42.747Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -1825,7 +1825,7 @@
           "label": "Eng · Gr 10a · A3205"
         },
         "Mon-5": {
-          "cat": "consult",
+          "cat": "head",
           "label": "Student consultation hour"
         },
         "Mon-6": {
