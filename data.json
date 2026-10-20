@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T11:30:11.239Z",
+  "updatedAt": "2026-10-20T11:30:19.178Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -2652,7 +2652,7 @@
         },
         "Tue-7": {
           "cat": "meeting",
-          "label": "Karm's  Viva Voce"
+          "label": "Karm's Viva Voce + RPF"
         },
         "Tue-8": {
           "cat": "free",
