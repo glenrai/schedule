@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T11:43:43.125Z",
+  "updatedAt": "2026-10-21T11:43:54.317Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -3032,7 +3032,7 @@
         },
         "Mon-1": {
           "cat": "teaching",
-          "label": "Eng 1 · Gr 11a, 11b · A2208"
+          "label": "Eng 1 · Gr 11a, 11b · A2208\n\nTania: Summative IO \nGlen: Summative IO "
         },
         "Mon-2": {
           "cat": "prep",
