@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T11:49:42.942Z",
+  "updatedAt": "2026-10-21T11:50:07.326Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -2644,7 +2644,7 @@
         },
         "Tue-5": {
           "cat": "teaching",
-          "label": "Eng 1 · Gr 12a, 12b · Eesti A3204"
+          "label": "Eng 1 · Gr 12a, 12b · Eesti A3204\n\nGlen: HLE Introduction"
         },
         "Tue-6": {
           "cat": "free",
