@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T11:45:06.659Z",
+  "updatedAt": "2026-10-21T11:45:48.459Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -2580,7 +2580,7 @@
       "cells": {
         "Mon-0": {
           "cat": "teaching",
-          "label": "Eng 1 · Gr 11a, 11b · A2208\n\n\nTania: IO Intro\nGlen "
+          "label": "Eng 1 · Gr 11a, 11b · A2208\n\n\nTania: IO Intro\nGlen: IO Check (10 Points, Extracts and GI)"
         },
         "Mon-1": {
           "cat": "teaching",
@@ -10417,5 +10417,5 @@
       }
     }
   },
-  "lastWeekIso": "2026-11-16"
+  "lastWeekIso": "2026-11-02"
 }
