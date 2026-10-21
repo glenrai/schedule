@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T13:03:45.734Z",
+  "updatedAt": "2026-10-21T13:03:53.825Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -2635,7 +2635,7 @@
           "label": "Meeting with Bella: Personal Project"
         },
         "Tue-3": {
-          "cat": "free",
+          "cat": "prep",
           "label": ""
         },
         "Tue-4": {
