@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T20:17:48.624Z",
+  "updatedAt": "2026-11-01T20:18:12.170Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -2604,7 +2604,7 @@
         },
         "Mon-6": {
           "cat": "misc",
-          "label": ""
+          "label": "Appointment "
         },
         "Mon-7": {
           "cat": "teaching",
