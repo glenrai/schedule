@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T20:17:34.752Z",
+  "updatedAt": "2026-11-01T20:17:48.624Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -2603,7 +2603,7 @@
           "label": "Meeting team members"
         },
         "Mon-6": {
-          "cat": "free",
+          "cat": "misc",
           "label": ""
         },
         "Mon-7": {
