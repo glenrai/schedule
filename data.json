@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T10:27:45.044Z",
+  "updatedAt": "2026-11-03T10:27:47.883Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -2651,7 +2651,7 @@
           "label": "Eng 1 · Gr 12a, 12b · Eesti A3204"
         },
         "Tue-7": {
-          "cat": "meeting",
+          "cat": "off",
           "label": "Karm's Viva Voce + RPF"
         },
         "Tue-8": {
