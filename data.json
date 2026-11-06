@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T10:33:04.650Z",
+  "updatedAt": "2026-11-06T11:26:01.553Z",
   "weeks": {
     "2026-09-07": {
       "cells": {
@@ -2939,47 +2939,47 @@
           "label": ""
         },
         "Wed-0": {
-          "cat": "teaching",
-          "label": "Eng 1 · Gr 12a, 12b · C1212"
+          "cat": "off",
+          "label": ""
         },
         "Wed-1": {
-          "cat": "teaching",
-          "label": "Eng 1 · Gr 12a, 12b · C1212"
+          "cat": "off",
+          "label": ""
         },
         "Wed-2": {
-          "cat": "grading",
+          "cat": "off",
           "label": ""
         },
         "Wed-3": {
-          "cat": "lunchbreak",
+          "cat": "off",
           "label": ""
         },
         "Wed-4": {
-          "cat": "head",
+          "cat": "off",
           "label": ""
         },
         "Wed-5": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Wed-6": {
-          "cat": "free",
+          "cat": "off",
           "label": ""
         },
         "Wed-7": {
-          "cat": "prep",
+          "cat": "off",
           "label": ""
         },
         "Wed-8": {
-          "cat": "ee",
-          "label": "Extended Essay Planning"
+          "cat": "off",
+          "label": ""
         },
         "Wed-9": {
-          "cat": "meeting",
+          "cat": "off",
           "label": ""
         },
         "Wed-10": {
-          "cat": "meeting",
+          "cat": "off",
           "label": ""
         },
         "Thu-0": {
@@ -3069,6 +3069,54 @@
         "Fri-10": {
           "cat": "free",
           "label": ""
+        }
+      },
+      "offBackup": {
+        "Wed": {
+          "0": {
+            "cat": "teaching",
+            "label": "Eng 1 · Gr 12a, 12b · C1212"
+          },
+          "1": {
+            "cat": "teaching",
+            "label": "Eng 1 · Gr 12a, 12b · C1212"
+          },
+          "2": {
+            "cat": "grading",
+            "label": ""
+          },
+          "3": {
+            "cat": "lunchbreak",
+            "label": ""
+          },
+          "4": {
+            "cat": "head",
+            "label": ""
+          },
+          "5": {
+            "cat": "free",
+            "label": ""
+          },
+          "6": {
+            "cat": "free",
+            "label": ""
+          },
+          "7": {
+            "cat": "prep",
+            "label": ""
+          },
+          "8": {
+            "cat": "ee",
+            "label": "Extended Essay Planning"
+          },
+          "9": {
+            "cat": "meeting",
+            "label": ""
+          },
+          "10": {
+            "cat": "meeting",
+            "label": ""
+          }
         }
       }
     },
